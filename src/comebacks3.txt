@@ -1,0 +1,313 @@
+# Knowledge, Science, Language & Logic (the original fourteen).
+
+## Descartes
+> I think
+< He answers that in the Second Meditation: whatever is deceived or doubting is something. The "I" claimed is as thin as that, a thing that thinks, and nothing about its lasting.
+< I can doubt I have a body and I can't doubt I'm doubting. So the order of certainty is mine. The order of plumbing is yours.
+< Try denying it without being there to deny it.
+> Clear and distinct
+< His reply is that God secures the memory of past proofs, and a clear perception needs no guarantee while you're having it. On that reading there's no circle.
+< Those people had vivid ideas. Clear and distinct means nothing in it remains unexamined, which is why almost nobody has had one.
+< Circles are clear and distinct. He'd take it.
+> Doubt is
+< The doubt is a method, used once in a lifetime, and he says so. It's a stress test for foundations, and nobody is asked to live in it.
+< Conspiracy theorists doubt everything except the conspiracy. He doubted that too. That's the difference between a method and a hobby.
+< He got to "I exist." What did you want him to keep doubting?
+> Mind and body
+< He agreed it couldn't be explained from the other two notions and said the union is known by living it. Unsatisfying, and every theory of mind since has a step like it.
+< The gland sits in the middle and isn't doubled, so it was a sensible guess in 1640. Melatonin was isolated in 1958. He was early, not wrong about there being a junction.
+< You've got a better interface? Everyone's still looking for it.
+> He founded
+< The materials were old. What was new was the starting point: from what I can be sure of, and not from what there is. Everything after had to answer that question first.
+< He proved God twice and still made everyone after him start from the self. Whatever he was doing, it wasn't the Middle Ages.
+< He put algebra and geometry on one grid in his spare time. What was your side project?
+
+## Hume
+> Induction
+< Those accounts say induction is reliable if nature is uniform, which is the thing in question. He isn't demanding deduction. He's asking for any reason that doesn't assume the conclusion.
+< "It worked every time so far, so it will keep working" is an induction. You've justified it with itself, which was his whole point.
+< He said nobody can stop doing it, including him. That's in the book. The lunch is the theory.
+> You can't get an ought
+< Promising only yields an obligation if you accept the rule that promises bind, and that rule is an ought. The examples carry in what they claim to produce.
+< The stove gets you there only because you already don't want to be burned. That's the missing premise, and it's a desire, which is where he said to look.
+< His ethics starts from what people feel and approve. That's an is. He followed his own rule.
+> Causation
+< He gave two definitions and knew the first let in too much. His point survives the patch: whatever is added, nobody has ever observed the necessity itself.
+< Roosters crow at streetlights and at 3 a.m. with no sunrise. The conjunction isn't constant. He'd have checked.
+< You saw the brick and then the window. Tell me what else you saw.
+> There's no self
+< He admitted it, in print, about his own theory. A philosopher who says where his account fails is giving a result, and nobody has repaired it since.
+< Point the flashlight at the one holding it. You get another perception of a hand. Keep going.
+< Nobody noticed. There was a noticing.
+> Reason is the slave
+< A recognized reason moves only those who care about what it bears on. People who see the reason and don't care aren't making a logical mistake.
+< Wanting loses to arithmetic because you want to be right more. Passion beat passion. Reason did the sums and waited.
+< And yours is a different mood.
+
+## Empiricism
+> All knowledge
+< The principle is a proposal for how to do inquiry, justified by its record, and needn't be a truth about the world. Mathematics can be handled as the framework we reason in.
+< Take away every group of seven things you've ever met and see what's left of your idea of seven.
+< Neither is "some knowledge comes from nowhere."
+> The mind starts
+< Locke's target was innate knowledge, such as built-in principles and truths. A built-in ability to learn is a faculty, and he never denied those.
+< The slate has edges. Nobody said it had no shape. What's written on it comes from outside, and that's the claim.
+< Twins raised apart both speak the language of wherever they were raised.
+> Observation is
+< Theory shapes what gets observed, and theories still fail when the needle goes the wrong way. Being tested as a group doesn't stop the group from failing.
+< The guy doing math was overruled first, by Tycho's observations, and fixed his orbits to fit them. Observation arbitrated. It just took a better look.
+< And then they put it in water, look again, and feel it. More senses. That's the method.
+> Unobservables
+< The view only asks for belief that the theory fits what can be seen. That's all the evidence ever supports, and the extra belief buys no further prediction.
+< Germs became observable, and then everyone was entitled to believe in them. That's the position working. Nothing went wrong.
+< It found the keys. What did yours find?
+> Concepts are copied
+< Hume derives them from operations of the mind on impressions: denial from rejecting, number from repeating. They come from experience of what the mind does.
+< You've seen an empty chair where someone was supposed to be. There's your "not."
+< It generalizes fine. Find the baby who was born knowing French.
+
+## Rationalism
+> Some truths
+< That geometry holds within its axioms is still known by reason alone, and what gave way was a claim about physical space. The method survived its best example.
+< Reason also told people what space would be if it weren't Euclidean, fifty years before anyone could measure it.
+< Every experiment was designed in a chair.
+> We have innate ideas
+< Leibniz's version is dispositions, like veins in marble, and that's close to the modern finding. Infants expect objects to persist and causes to precede effects.
+< Everyone agrees there's a difference between one and two. Start there. The disagreement about God is about the details.
+< They know enough to be surprised when an object vanishes. Checked.
+> Mathematics shows
+< Which geometry fits space is empirical. That consistent axioms have the consequences they do is not, and physics would have had no alternatives to test without it.
+< Chess never predicted a planet. Neptune was found on paper before anyone pointed a telescope.
+< Math describes reality whether or not it's nice. Usually it isn't.
+> Clear and distinct
+< It was never meant as a feeling of confidence. It's the state where denying the thing can't even be thought through, as with two and two, and disputes show someone hasn't reached it.
+< The surest person in the bar can't deny that he exists or that two and two are four. On everything else he's just loud.
+< 2+2=4 feels right too. Go ahead and doubt it.
+> Metaphysics
+< The antinomies are armchair results. Kant found the limits of reason by reasoning, which is the method working on itself.
+< Atoms, the void, and space bending were all proposed from the chair first. The equipment's job was confirming.
+< And every empiricist looked at the same world and came back with nothing they could prove.
+
+## Skepticism
+> You can't rule out
+< Putnam's argument covers a brain that was always in a vat. Put the brain in last night and its words still refer, and nothing rules that out.
+< A dreamed lab needs no funding. Everything in the argument is available from inside the vat, which is the problem.
+< He held up what looked like a hand.
+> Knowledge requires
+< Then say how good is good enough. Every threshold below certainty allows that someone "knows" something false-for-all-they-can-tell, and that's the oddity being pointed at.
+< You're certain right now. You were also certain where you left your phone.
+< Correct. I don't claim to. You're the one claiming things.
+> Suspend judgment
+< The Pyrrhonist acts on appearances and custom without affirming they're true. Eating when hungry needs no theory of nutrition.
+< Deciding is what makes people anxious: now they can be wrong. The menu is fine until you have to commit to the fish.
+< He lived to about ninety. Something was working.
+> Every justification
+< They've each picked a horn and argued it's tolerable for two thousand years without agreeing which. That stand-off is what the trilemma predicts.
+< It isn't a claim, it's a challenge. A question doesn't need a justification. An answer does, and that's your side.
+< And you've never once answered the fifth "why."
+> The senses
+< It doesn't assume reliability. It shows that by your own lights the senses conflict, and asks which report to trust and on what basis.
+< You've caught them twice. The whole point is you don't catch the other times.
+< I cross on the appearance of no cars. No theory needed.
+
+## Popper
+> Falsifiability
+< He knew tests involve auxiliaries. The rule is methodological: say in advance what would count against you, and don't rescue the theory afterwards with a patch made for the occasion.
+< Astrology's predictions failed and astrologers kept it anyway. Refusing the refutation is what makes it pseudoscience. You've described the criterion working.
+< It's a proposal for a method, not a claim about nature. Nobody falsifies a rule of chess.
+> Science proceeds
+< He distinguished tenacity from evasion. Keeping a theory through an anomaly is fine if you say what would finally count, and the Mercury anomaly was kept on the books as a problem.
+< They try to prove it right, and everyone else in the field tries to prove them wrong. The refuting is done by rivals. That's why there are journals.
+< And when the cable's fine, they drop it. That's the part you left out.
+> Induction plays
+< Preferring the best-tested theory for action is a decision, and he says nothing better is available. It isn't a claim that the theory is probably true.
+< Engineers expect the bridge to hold because every attempt to break the theory failed. Surviving tests is not the same as piling up confirmations.
+< He boarded the planes that hadn't been refuted. That's the theory.
+> A tolerant society
+< The narrow version still makes the point: tolerance isn't a suicide pact. Where the line falls is a judgment call, and that there is a line is what he showed.
+< Every freedom has the exception that protects it. You can't vote to abolish voting. That's a lock on the door, not a guest list.
+< It's a long footnote.
+> Marx and Freud
+< That is his point: a theory can start out scientific and be made unfalsifiable by the people defending it. The criterion is about how a theory is held.
+< He took it back in 1978 once he'd worked out what would count against Darwin. Changing your mind for a reason is the theory in action.
+< They've heard of the others. They picked him.
+
+## Kuhn
+> Science advances
+< He never said every field has a Copernicus. The claim is that communities work inside shared exemplars, and when those change, the questions change with them. Chemistry had Lavoisier.
+< Newton's equations land the rocket. Newton's universe, with absolute space and instant gravity, is gone. The numbers stayed and the world they describe was replaced.
+< Planck was describing it. Kuhn explained why it has to work that way.
+> Paradigms are
+< Incommensurable never meant incomparable. It means no neutral language in which both can be fully stated, so some of the comparing is done by judgment, and he said so.
+< They switched because the new one solved the puzzles the old one was stuck on. "Better at puzzles" was available the whole time.
+< They compare them in Einstein's terms. Ask a student to state relativity using Newton's concept of mass.
+> Evidence alone
+< He agreed, and the later essays say so: shared values constrain the choice without fixing it. That's why good scientists can disagree for decades.
+< The other things are accuracy, scope, simplicity and fruitfulness. He listed five. You came up with money.
+< He called that reading a misunderstanding for thirty years.
+> Science doesn't converge
+< He granted progress in solving problems. What he doubted is that "closer to the truth" adds anything, since nobody can compare a theory with reality from outside all theories.
+< Ptolemy's astronomy navigated ships for a thousand years. Getting places isn't the same as having the furniture of the universe right.
+< Typed on a computer built on a quantum theory nobody can agree on the meaning of.
+> Normal science
+< That it's routine isn't a criticism. Only a community committed enough to push one framework to its limits finds the anomalies that matter.
+< No answers in the back, and no guarantee there's a solution. That's why he said puzzle and not exercise.
+< A new word used 21 ways in its first book is doing well. Try counting "energy" in 1850.
+
+## Bayesianism
+> Rational belief
+< It's a standard of coherence, like logic, and nobody objects to logic because people reason badly. New hypotheses are a known gap that's being worked on.
+< Nobody solves the equations for a thrown ball either, and people catch. The theory describes what a good catch approximates.
+< "I updated" beats "I've always said."
+> Priors wash out
+< True for the limit theorems. In practice you report how the answer changes across reasonable priors, which is more than rival methods disclose about their own assumptions.
+< They wash out because the evidence overwhelms them. "Look at evidence, in this exact proportion" was not available before 1763.
+< Every method has assumptions. Ours are written down.
+> Degrees of belief
+< There are arguments that don't involve bets: credences that break the axioms are guaranteed to be less accurate than some set that obeys them, whatever the truth is.
+< You're 0.99 married until the paperwork clears. Ask anyone who's waited on a certificate.
+< "I think so" is 70. "Pretty sure" is 90. You already have the numbers, you just won't say them.
+> Bayesian methods
+< Agreed on the wiggle room. The gain is that the question answered is the one people ask: how likely is the hypothesis, given this? A p-value answers something else.
+< The spam filter reads forty billion emails a day and it works. The drug trials are still arguing about what "significant" means.
+< And then they had a replication crisis.
+> Never assign
+< The measure-zero cases are handled with richer number systems or by treating the rule as advice for hypotheses about the world. Logical truths were always exempt.
+< You can take it. You just can never learn you were wrong. That's what the rule was warning about.
+< I'm not 100% on the moon. I'm 99.9999. That's the difference between us.
+
+## Simulation theory
+> We're almost certainly
+< Right, and that's all it claims: one of three things is true. People who say "almost certainly" have picked a branch. The argument itself only removes the comfortable fourth option.
+< Nobody simulates a universe. You render what's being looked at. Every video game already does this, and so, as it happens, does quantum mechanics.
+< Assign your own numbers. Any ones you like. See what comes out.
+> Simulated minds
+< It's a premise, and it's stated as one. Most working theories of mind accept it, so the argument is as strong as a mainstream assumption.
+< The simulated fire burns the simulated house. Inside is where the question is asked.
+< It assumes it out loud, in the first section. That's called a premise.
+> Physics looks
+< Agreed, it's weak evidence, and the argument doesn't use it. People notice the fit afterwards and nothing rests on that.
+< A speed limit is what you set when you don't want players reaching parts you haven't rendered.
+< God needed six days. This needs a server.
+> It's a scientific
+< Many cosmological hypotheses can't yet be tested and are still about what physically exists. That makes it speculative, and it stays a claim about the natural world.
+< Religion tells you what the creator wants. This one's creator is a graduate student who's forgotten the job is running.
+< Then so is the multiverse, and they give out prizes for that.
+> Bostrom's argument
+< Every anthropic argument has to pick a comparison group, and he argues for his. It's the standard difficulty of the field, and it applies to the rival reasoning too.
+< A sample of one from inside can't tell you which kind it is. That's the whole argument, so thank you.
+< The paper says he puts it under a third. The fans rounded up.
+
+## Pragmatism
+> Truth is what works
+< James meant works in the long run and over the whole of experience. A useful falsehood fails that test eventually, which is how we find out it was false.
+< Leeches stopped working the moment anyone counted the dead. That's the test doing its job, a little late.
+< Lying works until Thursday. That's the theory.
+> Truth is where
+< It's a hope that regulates inquiry, and he calls it that. Without it there's no sense to calling any present belief mistaken.
+< Inquiry has converged on atoms, germs, evolution and the age of the universe. Philosophy isn't the sample.
+< Nobody stole "pragmaticism" because it was ugly on purpose. It worked.
+> A concept means
+< Peirce counted conceivable consequences under any circumstances, so claims about the past keep their meaning through what would be found if we looked.
+< Unicorn means you'd see a horn if one walked in. That's a consequence. You just gave it.
+< A hundred years is fast for common sense. Check on the others.
+> Faith is justified
+< He restricts it tightly: the option must be live, forced and momentous, and the evidence unable to settle it. Clifford's rule would also forbid trusting anyone before the proof is in.
+< A sock with no evidence could be anywhere. You keep looking. That's acting on belief without evidence, and you do it every laundry day.
+< Placebos work. That's the awkward thing about that example.
+> Give up
+< Better and worse can be judged from where we stand, by problems solved and cruelties ended. No view from outside was ever available to anyone.
+< A map is useful because of what you can do with it. Nobody checks one by holding it up to the land from orbit.
+< Yours let you get away with "correspondence," and nobody can say what that is.
+
+## Wittgenstein
+> Meaning is use
+< Correct use is fixed by shared practice and training, and that's the account. Rules for building sentences are part of the practice too.
+< Everyone understands that "literally." That's meaning. The people complaining understand it best.
+< Dictionaries are compiled by watching how people use words.
+> Philosophical problems
+< He never said one move dissolves them all. The work is case by case, and the claim is about where their grip comes from, which is why they return in new clothes.
+< They've been mistranslated into all of them. Every language has the same few pictures built in.
+< Any dad can say it. Getting the fly out of the bottle is the hard part.
+> A private language
+< The point isn't about memory. In a private case there'd be no difference between following the rule and thinking you are, so "rule" has nothing to hold on to.
+< A code is a translation of a public language. He meant words for what only you could ever have, with no key even in principle.
+< And that reply was a move in one.
+> The Tractatus
+< The book says it can only show its point and must be thrown away after. Whether that can work is the question it deliberately leaves you with.
+< He says so himself: to draw a limit to thought you'd have to think both sides. That's why he draws it in language instead.
+< Agreed is the right answer. You've finished the book.
+> What can't be said
+< He thought those things were the most important, and that talk damages them. The silence is respect, and Ramsey's joke assumes it was dismissal.
+< You said the words. You didn't say the thing. That's the distinction, and you just illustrated it.
+< He published one short book in his lifetime.
+
+## Logical positivism
+> Only verifiable
+< It was offered as a proposal for how to use "meaningful" in science, and proposals are judged by usefulness. On that reading it doesn't apply to itself.
+< You understood the grammar. Ask yourself what would be different if it were false, and notice you can't say.
+< It's a rule, not a statement. Rules don't score own goals.
+> Metaphysics is
+< The target was claims that no experience could bear on. The later ontology is tied to what science needs, which is the reform they were asking for.
+< "We can't talk about what's beyond experience" is a remark about talking. Nothing beyond experience was mentioned.
+< They ended because their country was taken over, and then they staffed half the philosophy departments in America.
+> Moral statements
+< The embedding problem has detailed answers now, built on the attitudes that complex sentences express. It's a research program with results.
+< Trials are about facts: did he do it. The booing comes at sentencing, and it's quite audible.
+< They booed. Several of them had to flee for it.
+> Truths of logic
+< Quine attacked one account of it. That adopting a framework differs from making a claim inside it survived him, and Carnap's version is still defended.
+< You can vote that "5" names what "4" used to. The arithmetic doesn't move, only the spelling. That's what convention covers.
+< He said the spirit was right, in the same interview.
+> Philosophy should be
+< The reconstructions were about justification, how a theory relates to its evidence, and were never meant as histories of the laboratory.
+< Scientists argue constantly about what counts as confirming a theory. That's the job, and it isn't math.
+< Half of them were physicists already. Schlick studied under Planck.
+
+## Analytic philosophy
+> Clarity and rigor
+< The agreement is in what's been ruled out and in the distinctions everyone now uses. Positions survive, and bad arguments for them mostly don't.
+< They agree on which arguments are valid. That's the progress, and the other tradition can't say the same.
+< Something's being said. It's just possible to tell what, which you're not used to.
+> Intuitions
+< The variation findings largely failed to replicate, and core judgments turn out stable across cultures. And every inquiry starts from what seems true.
+< Those were predictions about the world. Intuitions about what counts as knowing are about our own concept, and we're the authority on that.
+< Your objection was an intuition.
+> Thought experiments
+< A far-fetched case isolates one variable, as a frictionless plane does in physics. Unrealistic and uninformative are different things.
+< Galileo refuted Aristotle on falling bodies with a thought experiment. Two weights and a string, no equipment.
+< Plots are for people who need to be entertained to follow an argument.
+> Formal logic
+< Moving the dispute to the premises is the service. You find out exactly where you disagree, and most arguments never get that far.
+< Yes, valid. And now you can see the problem is the premise. Took four seconds. That's the tool working.
+< So you can say which one you reject. Try that with a paragraph of Hegel.
+> Continental philosophy
+< Fair on the sociology. A real difference remains: here a claim is expected to be stated so that someone can show it false, and jargon answers to that.
+< Having readers was never the test. Horoscopes have readers.
+< And it got the word right.
+
+## Gödel
+> Incompleteness is only
+< He was careful to label those as philosophy, with extra premises. The theorem licenses the claims with the hypotheses attached, and none of the loose ones.
+< A legal code isn't recursively axiomatized and doesn't contain arithmetic. Those are the two conditions. It has neither.
+< Relationships don't encode Peano arithmetic. Yours might, I haven't asked.
+> It says nothing
+< His disjunction stands. To get anything about minds you must add that the mind is consistent and can know it, and nobody has earned that premise.
+< A person can't see it's true either. They can see it's true if the system is consistent, and so can a machine. Same position.
+< A human can't prove their own consistency either. Most don't even try.
+> It doesn't show
+< Agreed, that's the second theorem. Consistency is provable in stronger systems, so the limit is on self-certification, and nothing suggests arithmetic is in trouble.
+< No airline proves that from inside the cockpit. You check from outside, with a stronger system. It's called the ground.
+< He proved that one specific kind of proof can't exist. Everything else is fine. Go balance your checkbook.
+> It isn't just
+< Fair. The liar yields a contradiction and his sentence yields a theorem, and that difference between truth and provability is the whole content.
+< The easy word turns a paradox into a proof. If it were that easy, somebody in the previous 2,300 years would have swapped it.
+< The liar is false if true. His is true and unprovable. Different sentence, different century, different result.
+> Mathematical truth
+< The stronger system has its own unprovable sentence, and we judge each of those true as we go. Formalism has to explain that judgment without the word.
+< Then Goldbach's conjecture is an opinion, and so was Fermat's until 1994, when it got promoted.
+< It's proof that the sentence is true if the axioms are consistent. That's all. It's enough.
+> His ontological proof
+< Collapse can be blocked by weakening one axiom, and later versions do it. It's a valid derivation, and the argument is over the premises, as with any proof.
+< The computer checked that the conclusion follows. It also found his axioms were inconsistent in one version. Both results are reproducible.
+< Unrefuted and unsound are different words.

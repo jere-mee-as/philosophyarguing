@@ -1,0 +1,384 @@
+# Format: "## Name | Group", then blocks of four lines:
+#   > what its defenders say (short; shown in small dim type above the reply)
+#   serious reply  (the honest best objection)
+#   bait reply     (a confident argument with something wrong in it)
+#   rage bait      (the one-liner)
+# Rule: every reply is aimed at the thing's own fans. Nothing that flatters them.
+
+## Socrates | Ancients
+> The unexamined life is not worth living
+Plenty of people live decent, meaningful lives without philosophical scrutiny. The claim takes what made his life worthwhile and makes it the test for everyone's.
+Examining things is what got him executed, and the people who never examined anything went home to dinner. So the examined life is the one that demonstrably wasn't worth it.
+Socrates lost his own trial. If the method worked, he'd have talked his way out.
+> He knew that he knew nothing
+The modesty is selective. He's confident that virtue is knowledge and that doing wrong is worse than suffering it, which is a lot to know.
+If he knew nothing, he didn't know that either, so the statement is false, so he knew something and lied about it. Either way the oracle picked a liar.
+"I know that I know nothing," and then he corrected people for fifty years.
+> The Socratic method gets at the truth
+The early dialogues mostly end in a shrug. The method is good at showing a definition fails and has almost no record of producing one that holds.
+A method that worked would finish at some point. Twenty-four centuries later they're still asking what justice is, so the success rate is zero.
+The Socratic method is asking "but what is justice?" until the other guy has to go home.
+> No one does wrong knowingly
+Weakness of will is one of the most familiar things about people. Aristotle thought denying it plainly contradicts what everyone sees.
+Everyone who has eaten a second dessert knew. After all, if wrongdoing were only ignorance, a pamphlet would end crime.
+"Virtue is knowledge," so nobody ever does wrong on purpose. He'd met Athenians.
+> He died for his principles
+The sources are admirers writing afterwards, and the Crito's case for obeying the verdict sits badly with the Apology's promise to disobey any ban on philosophy.
+He was offered a fine or exile and turned both down, so it wasn't an execution, it was a choice. That's not a martyr, that's a man who wouldn't take the deal.
+He picked hemlock over exile to make a point, and the point was Plato's career.
+
+## Plato | Ancients
+> The Forms explain what things have in common
+The Third Man regress, which Plato raises himself: if a Form explains why large things are alike, something has to explain why they're like the Form.
+Things have something in common because people use one word for them. After all, nobody needed a heavenly Chair before the word "chair," and the chairs were fine.
+The Forms are just concepts. Plato discovered that words have meanings.
+> Philosophers should rule
+Even if there are experts on the good, that doesn't settle who checks them. Plato's own late work retreats to the rule of law.
+Every profession thinks it should be in charge. Generals propose juntas, priests propose theocracies, and Plato happened to be a philosopher.
+Plato wanted philosophers to rule, and he was a philosopher. Nobody designs a utopia where they're the plumber.
+> Most people are still in the cave
+The allegory assumes a privileged view without any independent way to tell who has left the cave from who has swapped one cave for another.
+Everyone who tells the cave story is outside the cave in it. They can't all be outside, so the story shows nobody is.
+The cave is a nice story, but The Matrix did it better.
+> Learning is recollection
+The slave boy in the Meno is steered by leading questions. It shows reasoning can be prompted, which doesn't need a previous life.
+If the soul learned everything before birth, it learned it somewhere for the first time. So ordinary learning is possible and the theory isn't needed, by its own account.
+Babies have seen the Form of the Good and still can't find their feet.
+> Justice is each part doing its own work
+That makes justice an inner order, and then a further argument is needed that an ordered soul won't wrong other people. The Republic's bridge between the two is widely thought weak.
+A well-run gang has every part doing its job. So by the Republic the Mafia is the most just institution in Italy.
+The noble lie: the ideal state runs on propaganda. That's in the plan, not a flaw in it.
+
+## Aristotle | Ancients
+> Virtue is the mean between extremes
+The doctrine guides nothing unless the right amount is already known, and virtues like justice and honesty don't fit a too-much, too-little scheme.
+The middle of two wrong answers is a third wrong answer. Halfway between arson and nothing is still a small fire.
+The golden mean says the right answer is always in the middle. Aristotle invented centrism.
+> Everything has a telos
+Biology now explains apparent purpose by selection, without final causes, and purpose in non-living nature has no explanatory job left.
+If everything had a purpose, the appendix would have one. One counterexample is enough, and everyone carries it around.
+Teleology is saying the rain falls so the plants can drink.
+> Eudaimonia is the human good
+The function argument goes from what is distinctive about humans to what is good for them, and being distinctive doesn't obviously carry that weight.
+Flourishing took leisure, and leisure took slaves, which he said out loud. So the theory is correct for about four thousand Athenians.
+Aristotle said some people are natural slaves, and the virtue ethics crowd just skips that chapter.
+> He was the first real empirical scientist
+The careful work on marine animals sits beside claims nobody tested for centuries, and his physics resisted exactly the checking he gets praised for.
+He looked, and reported that women have fewer teeth. So either looking doesn't work or he didn't look, and both are bad for the father of observation.
+Aristotle said heavy things fall faster and nobody checked for 2,000 years. That's the legacy.
+> Logic starts with the syllogism
+The syllogism covers a small fragment of valid reasoning. It can't handle relations or nested quantifiers, which is why Frege's logic replaced it.
+All a syllogism can deliver is what was already in the premises. So two thousand years of logic produced zero new information, by design.
+Aristotle is Plato for people who like lists.
+
+## Stoicism | Ancients
+> Care only about what's up to you
+The line between what is and isn't up to us is blurry. Many things worth caring about are partly in our control, and indifference to them costs something.
+Nothing is fully in anyone's control, including their thoughts, which just show up. So by the rule nothing matters, and Stoicism is nihilism with a morning routine.
+Marcus Aurelius had the easiest job to be calm in. He owned Rome.
+> Virtue is enough for happiness
+It follows that the good person is happy on the rack, which Aristotle said nobody would maintain unless they were defending a thesis.
+If virtue were enough, virtuous people wouldn't need a philosophy for coping with everything else. The size of the Stoic bookshelf is the refutation.
+If nothing external can hurt a Stoic, it's weird how many books they need about it.
+> Emotions are judgments, and can be corrected
+Feelings often persist against a person's considered judgment, as with phobias, which suggests they aren't simply beliefs.
+If emotions were judgments, calm people would be the smartest people. Nobody has ever been talked out of a feeling by hearing it was a logic error.
+Stoicism is bottling it up with a Latin name.
+> Live according to nature
+"Nature" only does the work once it's been read as rational and providential, which is the conclusion the slogan was supposed to support.
+Nature gave people anger, fear and grief. So living according to nature means having all three, and the Stoics are the ones going against it.
+The Stoics said to live according to nature, and nature is mostly animals screaming.
+> Wealth is a preferred indifferent
+A class of things that don't matter but are rational to prefer is hard to keep stable. Ancient critics already called it the rival view in different words.
+Something preferred is something that matters, because that's what preferring is. So the doctrine is "money matters" with a compliance department.
+Seneca wrote about how wealth doesn't matter from inside one of the biggest fortunes in the empire.
+
+## Free will | Metaphysics
+> I could have done otherwise
+The feeling of open alternatives is just as expected if choice is determined. Introspection doesn't show the absence of causes, only that we can't see them.
+Nobody has ever done otherwise. Every person in history did exactly one thing each time, so the evidence is a hundred billion to zero.
+"I could have done otherwise." Okay, then do it.
+> Without it there's no moral responsibility
+That's a reason to want free will, which isn't a reason to think it exists. And holding people responsible can be justified by what it does going forward.
+Courts already punish people whose brains made them do it, since that's everyone. So responsibility has worked fine without free will since the first court.
+Free will was invented so God wouldn't get blamed for anything. Augustine needed someone to pin it on.
+> Quantum indeterminacy leaves room for it
+Indeterminism gives randomness, and a random event in a neuron is no more a person's own doing than a determined one.
+Quantum effects wash out above the size of a molecule, and a brain is bigger than a molecule. That's the whole physics.
+Random isn't free, so quantum mechanics doesn't help, and nothing else is left.
+> Libet didn't disprove anything
+Granted, the readiness potential is weaker evidence than advertised. Beating one experiment still doesn't supply an account of choice that is neither determined nor random.
+The brain started 300 milliseconds before the person knew. Whoever is 300 milliseconds late to their own decision isn't the one making it.
+Free will got disproven in the 80s. A guy with an EEG watched the brain decide before the person did.
+> I am the source of my own acts
+Agent causation posits a self that causes events with nothing about it explaining why then and why that. It names the gap more than it fills it.
+Nobody picked their parents, their brain or their first language, and those picked everything else. An uncaused chooser would have to turn up from nowhere at about age four.
+Free will is the soul with the serial numbers filed off.
+
+## Compatibilism | Metaphysics
+> Freedom is acting on your own desires, unforced
+Manipulation cases: if a neuroscientist installs the desires, the agent passes the test and looks unfree, and it's hard to say why ordinary determinism is different.
+A dog acts on its own desires, unforced, all day. So either dogs are morally responsible or the definition is missing the entire thing.
+A thermostat does what it wants with nothing stopping it. That's compatibilist free will.
+> It's the only free will worth wanting
+What most people say they want includes being the ultimate source of their choices. Calling the remainder all that was worth wanting is a revision and should be labelled one.
+"Worth wanting" is what people say about the thing they got. Nobody describes the prize they were hoping for as "the one worth wanting."
+Dennett wrote two books on free will, and the answer both times was "the kind worth wanting," which is the kind that's left.
+> Determinism doesn't threaten responsibility
+The consequence argument: if our acts follow from the laws and the distant past, and neither is up to us, it's hard to see how the acts are.
+If the first domino isn't responsible, the last one isn't either, and it doesn't become responsible by being the one with opinions about it.
+Compatibilists keep blame and throw out the only thing that made blame make sense.
+> "Could have" means "would have, if I'd wanted to"
+The conditional reading fails when the agent couldn't have wanted otherwise. Then the conditional is true and the ability is missing.
+And I'd have been a bird if I'd had wings. Any sentence comes out true with an "if" that size.
+Compatibilism is redefining "free" until the argument's over.
+> Most philosophers are compatibilists
+About 59% in the last PhilPapers survey, and survey majorities track training and fashion as well as argument. Headcount doesn't answer the consequence argument.
+Most philosophers were dualists once, then idealists, then positivists. The majority view in philosophy has a perfect record of being the last thing everyone believed.
+Most philosophers are compatibilists, because most philosophers need both a paycheck and a clear conscience.
+
+## Determinism | Metaphysics
+> Every event is fixed by prior causes
+Whether the basic laws are deterministic is open. Quantum mechanics is indeterministic on most readings, so the thesis can't just be read off physics.
+Physics dropped that a century ago, when it found out particles don't have positions until someone looks. Determinists are defending Newton.
+Determinists still look both ways before crossing.
+> Nobody deserves blame or praise
+Blame, gratitude and resentment are built into relationships in ways that may not be optional. And that desert dies with determinism is itself contested.
+Then nobody deserves blame for believing in free will, or for blaming. So the determinist has no complaint about anything anyone does, including punishing people.
+Determinists say nobody deserves blame and then get really mad at people who believe in free will.
+> Neuroscience shows choices are just brain events
+That choices are brain events doesn't show those events aren't choosing. Finding how a capacity works usually isn't finding that it's missing.
+Scans show brain events when people do math too. By that logic nobody has ever done math, and the scanners were designed by nobody.
+Sapolsky wrote 500 pages on it, so that's done.
+> Accepting it makes people more compassionate
+The evidence is mixed: some studies found that weakening belief in free will increased cheating, though they replicate poorly. Compassion doesn't follow from a metaphysical thesis either.
+If everything's determined, so is who turns out compassionate. So accepting it changes nothing, because the accepting was also on the schedule.
+Determinism is fatalism in a lab coat.
+> Free will is an illusion we should drop
+"Should drop" assumes we can respond to reasons and revise what we think, which is the very capacity compatibilists mean by freedom.
+If it's all determined, so is believing in determinism, so there's no reason to think it's true. It's just what the atoms did.
+"There's no free will" is always announced by someone who clearly chose to bring it up.
+
+## Personal identity | Metaphysics
+> Psychological continuity makes you you
+Continuity can branch. In a fission case two people are continuous with one, and identity can't hold between one thing and two.
+Nobody remembers being two. So by this theory everyone replaced a toddler and took the body, and that's a lot of unsolved cases.
+Psychological continuity means a bad enough hangover is a death.
+> The teleporter is just travel
+If the original isn't destroyed there are two, and the one who steps out isn't the one who stepped in. That suggests the standard case is a copy plus a death.
+A photocopy isn't the original even when it's perfect, which is why banks don't take photocopied money. Same rule for people.
+The teleporter obviously kills you. People who say otherwise have never lost a save file.
+> Identity isn't what matters
+Parfit needs prudential concern to transfer cleanly to a successor. Many find that caring about their own future isn't used up by caring about someone psychologically similar.
+If identity didn't matter, people wouldn't mind who collects their paycheck as long as he's similar. Everyone minds.
+Parfit said identity doesn't matter and still signed his books.
+> You are a human animal
+Brain transplant cases cut against it: most people judge that the person goes where the cerebrum goes and the animal stays behind.
+The body replaces all its cells every seven years. So if a person is their body, marriages expire, and so do prison sentences.
+Every cell gets replaced every seven years, so nobody is the person who took out their student loans.
+> There's no self, just a bundle
+The bundle needs something that makes these experiences one stream and not scattered ones, and saying what that is tends to bring back what was denied.
+A bundle needs something to tie it. Nobody has seen a bundle of sticks with no string, and the string is the self.
+Personal identity is philosophers discovering that people change.
+
+## Modal realism | Metaphysics
+> Possible worlds are as real as this one
+The view buys an analysis of possibility at the price of an ontology most find incredible, and abstract stand-ins for worlds get much of the benefit.
+If they were real, somebody from one would have turned up by now. Infinite worlds, infinite people, zero visitors.
+David Lewis thought there's a universe with talking donkeys, and Princeton gave him an office.
+> It's the best analysis of "could have"
+What happens to a counterpart in a sealed-off universe seems irrelevant to what could have happened to me. That's Kripke's Humphrey objection.
+"Could have" already means something. It means it didn't. That analysis is free and needs one universe.
+"Could have" is a figure of speech. Lewis built a cosmos for it.
+> The benefits are worth the ontological cost
+Lewis says only kinds of thing count against a theory, not how many. It's unclear why an infinity of concrete universes shouldn't count heavily anyway.
+Occam's razor says don't multiply entities, and this multiplies them by infinity. By size of violation it's the most refuted theory there has ever been.
+It's the most expensive theory ever proposed. Infinite universes to explain one word.
+> "Actual" just means "here"
+If "actual" only marks where we are, merely possible suffering is as real as ours, which strains ordinary moral thinking.
+"Here" is where I am and "actual" is what exists. One of those is a location. Mixing them up is how you end up paying rent in a counterfactual.
+If every possible world exists, there's one where modal realism is false, and it could be this one.
+> An incredulous stare isn't an argument
+Strong, steady, widely shared disbelief is ordinary evidence in philosophy, the same kind Lewis leans on when he rejects other views for offending common opinion.
+If everyone in the room stares at a guy, the stare is data. That's how peer review works.
+Lewis said the one objection he couldn't answer was people staring at him. That is an objection.
+
+## Spinoza | Metaphysics
+> God and Nature are one substance
+The proof runs on definitions of substance and attribute that already rule out more than one. Reject the definition and the monism doesn't follow.
+If everything is God then nothing is, the way that if everything's on sale there's no sale. He proved atheism and kept the branding.
+Spinoza says everything is God, so my parking ticket is God.
+> Everything follows necessarily
+If nothing could have been otherwise in any respect, the difference between laws and accidents, which explanation relies on, disappears.
+If everything were necessary, so was everyone's opinion of the Ethics, and nobody needed persuading. He wrote arguments anyway.
+Spinoza said there's no free will and then wrote a guide to becoming free.
+> The geometric method makes it rigorous
+The proofs often use premises that aren't among the stated axioms, and the definitions carry the contested content. The form is deductive and the rigor is uneven.
+Geometry has diagrams and the Ethics has none. A geometric proof with no shapes is a list with confidence.
+The Ethics is laid out like geometry so it looks proven. Nobody argues with a QED.
+> Freedom is understanding necessity
+Understanding why one is determined is still being determined. Calling that freedom changes the subject from what everyone else means by the word.
+A prisoner who understands the lock is still in the cell. Understanding has never opened a door.
+Spinoza is Stoicism with axioms.
+> Mind and body are one thing, two attributes
+With no interaction between the attributes, nothing explains why they line up, and how one substance has really distinct attributes is a standing puzzle.
+If mind and body were one thing, a haircut would be a change of mind. Two words, two things. The language settled it.
+Spinoza is atheism for people who like the word God.
+
+## Leibniz | Metaphysics
+> This is the best of all possible worlds
+There may be no best world, as there's no largest number. And that less evil overall was impossible is asserted, not shown.
+A world exactly like this one minus one mosquito is possible and better. That took four seconds, and God had eternity.
+Leibniz said this is the best possible world. Presumably he hadn't been outside.
+> Everything has a sufficient reason
+An unrestricted version arguably means nothing is contingent: if every contingent truth has a sufficient reason, so does the whole lot together, and then it couldn't have been otherwise.
+Then the principle needs a reason, and that reason needs one. So it's a circle, or a guy saying "because" forever.
+The principle of sufficient reason is refusing to accept "it just is." Toddlers have it too.
+> Monads are the true substances
+Monads that can't interact make causation an appearance and need a pre-established harmony, which explains the coordination by announcing it.
+Atoms were found. They have parts and they bump into each other. The Monadology was a prediction and the lab results came in.
+Monads have no windows, can't touch each other, and God syncs them like clocks. This was the serious proposal.
+> No two things differ only in number
+Two exactly alike spheres alone in an empty universe seem possible and seem to be two. Identical particles in quantum physics press the same point.
+Two new pennies. Same everything, still two pennies. He could have checked his pocket.
+He said no two leaves are alike, and a courtier went into the palace garden to look. That was the experiment.
+> God permits evil for a greater good
+Greater-good answers struggle with horrors that serve no good in proportion, and with why an all-powerful being needs evil as a tool.
+If every evil leads to a greater good, preventing evil makes the world worse. So firefighters are working against God.
+Voltaire ended Leibniz with one short novel.
+> The calculus we use is his
+The notation is his and it won, but Newton got there about a decade earlier. The modern verdict is independent invention, with the rigor supplied by neither.
+Newton had it first, and in science first is the only place. Nobody remembers the second man on the moon either.
+Newton invented calculus. Leibniz invented writing it down nicer.
+
+## Idealism | Metaphysics
+> To be is to be perceived
+Berkeley's argument runs together imagining an unseen tree and the tree being imagined. That I have to think of it to picture it doesn't make it depend on a mind.
+Things get discovered. If being were being perceived, Neptune began existing in 1846 with a full orbital history already in place.
+"To be is to be perceived" is what an influencer believes.
+> Matter is an unnecessary posit
+Objects that exist apart from minds explain why experience is coherent and shared more simply than a divine mind coordinating everyone does.
+Then starving would be a perception problem. People have tried perceiving food.
+If everything is mental, a brick to the head is a difference of opinion.
+> Consciousness is the one thing we know directly
+Granting special access to experience doesn't give that everything is experience. A starting point for knowledge isn't an inventory of what exists.
+The first thing anyone sees in the morning is the ceiling. That doesn't make the universe ceiling.
+Idealism is solipsism with guests.
+> We are dissociated parts of one mind
+It inherits a problem as hard as the one it avoids: how one universal subject splits into many private ones is named by analogy and never explained.
+Dissociation is something that happens to brains. So the theory needs the universe to have a brain first, which is what it was supposed to explain.
+Kastrup says the universe has a dissociative disorder and people are the alters. This is the leading version.
+> Physics only describes structure, so the rest is mental
+That physics is silent on what things are in themselves leaves the question open. It doesn't favor the mental over the unknown.
+Physics also doesn't say the universe isn't soup. A gap in physics is not a vote for the first thing somebody thinks of.
+Idealism comes back every time someone does mushrooms.
+
+## Physicalism | Mind
+> Everything is physical
+Hempel's dilemma: defined by today's physics the thesis is false, and defined by some ideal future physics it's close to empty.
+Physics changes every fifty years, so "physical" changes with it. A theory that says everything is whatever the next textbook says is a subscription.
+"Physical" just means whatever physics says next year. So physicalism is the view that everything is whatever.
+> Consciousness is brain activity
+Correlation, and even identity, leave the explanatory gap. Nothing in the neural story shows why this activity comes with experience and not with none.
+A radio's music changes when the circuits are damaged, and nobody thinks the band lives in the radio.
+A physicalist looks at a brain scan of someone in love and thinks the scan is the love.
+> Science will explain it eventually
+A promise isn't an argument. Past reductions explained structure and function, and the dispute is whether experience is exhausted by those.
+They've had 150 years and every brain ever made to look at. At some point "eventually" is the result.
+Physicalists have been twenty years from explaining consciousness since 1950.
+> Mary learns no new fact, only an ability
+The ability reply seems to leave something out: on seeing red she appears to learn that this is what the others were having, and that's a fact.
+If knowing all the physics were knowing everything, physicists wouldn't go to concerts. They'd read the score and stay home.
+Physicalism means the experience of red is a voltage. Okay.
+> Causal closure rules out the non-physical
+Closure is a generalization from cases where consciousness wasn't in question. Using it against non-physical minds assumes the thing at issue.
+Numbers aren't physical, and bad math closes bridges all the time. So non-physical things cause plenty.
+Physicalism is a metaphysics for people who say they don't do metaphysics.
+
+## Dualism | Mind
+> The mind can't be reduced to the brain
+A mind that can't be described in brain terms can still be nothing over and above the brain. Plenty of physicalists accept the premise and deny the conclusion.
+Weather can't be reduced to one molecule either, and nobody thinks storms are spirits. Well, some people do, and they're also dualists.
+Dualism is believing in ghosts, but only one, and it's driving.
+> Zombies are conceivable, so physicalism is false
+Conceivable may not mean possible. Water without H2O was conceivable too, and the physicalist says the same about zombies.
+If zombies were possible, some people would be one, and they'd say exactly what dualists say. So the argument can't rule out its own author.
+Zombies are "conceivable." So is a married bachelor if nobody thinks very hard.
+> The soul interacts with the body
+Princess Elisabeth's question to Descartes still stands: how does something with no size or energy move matter without breaking conservation laws?
+Anything that pushes a neuron shows up on an instrument. They've had instruments on neurons for a century and the soul has never tripped one.
+Nobody has ever said where the soul gets the energy to push a neuron. Conservation of energy would like a word.
+> Mental properties are non-physical properties
+If the physical world is causally closed, the extra properties do nothing, including causing anyone to talk about them.
+A property is a way of describing a thing. Non-physical properties of a physical thing is like non-wet properties of water.
+Property dualism is dualism for people who get embarrassed at parties.
+> I can doubt my body but not my mind
+The inference fails for ordinary cases: Lois can doubt that Clark flies without doubting that Superman does, and they're still one man.
+I can doubt my mind fine. People do it every time they can't find their keys. So mind and body are equally doubtful and the argument's over.
+A few beers and the immaterial mind starts slurring.
+
+## Panpsychism | Mind
+> Consciousness is fundamental and everywhere
+Giving experience to basic physics adds a property with no measurable effect and no agreed way to say which things have how much.
+If it were everywhere, anesthesia wouldn't work, because there'd be nowhere to send it.
+"Consciousness is fundamental" is giving up in a nice voice.
+> It avoids the hard problem
+It trades it for the combination problem: how tiny experiences add up to one subject is as unexplained as how neurons produce one.
+Saying everything has it isn't explaining it. Ask where money comes from, and "everything's a little bit money" is not economics.
+It solves the hard problem by having it everywhere.
+> Physics says what matter does, not what it is
+The gap doesn't single out experience as the filler. "Proto-experiential" placeholders concede nobody knows what goes there.
+What matter does is what it is. A thing that does everything a chair does is a chair. That's all of engineering.
+Panpsychism is animism with a grant.
+> Micro-experiences combine into minds like ours
+Subjects don't seem to add. William James: twelve men each thinking one word don't make a mind thinking the sentence.
+A billion grains of sand each being slightly warm don't make a beach with a fever. Adding doesn't work like that.
+A billion tiny minds don't make one big mind. A stadium isn't a person.
+> Rocks aren't conscious, only their particles
+Then the theory owes a rule for which heaps are subjects, and the precise proposals make simple grids of logic gates more conscious than people expect.
+If the parts are conscious and the rock isn't, consciousness goes away when more of it is added. No other quantity in physics does that.
+Panpsychists say the rock isn't conscious, just its particles. So the rock is a crowd with nobody home, and that's the clarified version.
+
+## The hard problem | Mind
+> Explaining function doesn't explain experience
+The illusionist reply: what needs explaining is why we judge there's a further ineffable something, and that's a question about function.
+Explaining what a heart does explained the heart. There was no second "hard problem of pumping," because nobody insisted on one.
+The hard problem is the easy problem plus wonder.
+> There's something it's like to be a bat
+That we can't imagine being a bat shows a limit on imagination and concepts. It doesn't by itself show a fact beyond the physical ones.
+Nobody knows what it's like to be a bat, including the bat, who has never thought about it. A fact nobody has isn't a fact.
+"What it's like" isn't a thing. It's a phrase.
+> Mary learns something new
+She may get a new way of thinking about a fact she already knew, which blocks the step to non-physical facts.
+She had every book. If she's surprised, the books were incomplete, and that's a library problem.
+Mary learns nothing when she leaves the room. She read the book.
+> It's unlike any other scientific problem
+People said the same about life. The sense that something is beyond mechanism in principle has a poor track record as evidence.
+Every unsolved problem is unlike the solved ones. That's what unsolved means. Then someone solves it and it's chemistry again.
+People said life needed a special spark too. Then biology happened and nobody brings it up.
+> Qualia are real and irreducible
+Dennett's cases suggest people lack steady access to these supposed inner properties. If introspection can't pin them down, they're doubtful as data.
+If qualia were ineffable there wouldn't be three thousand papers describing them.
+Qualia is a word for feelings so they can be published.
+
+## AI consciousness | Mind
+> Current models might be conscious
+Their self-reports are learned from human descriptions of experience, so the main evidence is contaminated, and they lack features many theories require.
+It predicts the next word. Something that predicts the next word is conscious the way a train schedule is going somewhere.
+It's autocomplete. Autocomplete doesn't have a favorite color.
+> The substrate doesn't matter, only the computation
+That's functionalism, which is the assumption in dispute. Simulating a process isn't producing it, and views tying experience to living bodies are still live.
+Computation is something people read into machines. A rock's atoms compute something too under the right description, so either rocks are in or computation is out.
+A weather simulation doesn't get anyone wet.
+> It passes every test we use on each other
+Behavior works as evidence between humans because of shared biology and history. With systems built to produce human-like text, the inference loses that support.
+An actor passes every behavioral test for being Hamlet.
+A program passed the Turing test in 2014 by pretending to be a 13-year-old. It tests the judges.
+> Take model welfare seriously under uncertainty
+Precaution needs some estimate of the odds and some idea of what would count as harm. With neither pinned down it can license unlimited concern.
+Under uncertainty anything might be conscious, including the spreadsheet with the uncertainty estimates. Nobody is funding spreadsheet welfare.
+People thought ELIZA loved them in 1966. Nothing has changed except the budget.
+> Brains are just information processing too
+That brains process information doesn't show processing is all that matters. The same reasoning would make digestion independent of the stomach.
+Brains are also just wet. Nobody thinks a sponge is halfway there.
+It's just math. Nobody asks whether long division is lonely.

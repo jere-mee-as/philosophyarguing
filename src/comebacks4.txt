@@ -1,0 +1,265 @@
+# Ethics and How to Live (the original twelve).
+
+## Utilitarianism
+> Maximize
+< Counting each person once and no one for more is how it respects persons. The alternative gives some people's interests a veto over other people's lives.
+< Nobody knows exactly what health is either, and hospitals still improve it. Rough measures of misery are enough to tell a famine from a picnic.
+< You can tell a broken leg is worse than a stubbed toe. Congratulations, you've done the arithmetic.
+> Only consequences
+< A world where surgeons harvest visitors is a world where nobody goes to hospitals. The verdict comes from counting everything, which is what the theory says to do.
+< Forecasts never end either, and you still bring an umbrella. You act on what can be foreseen. Nobody waits for the last consequence.
+< The notes say no. Nobody would ever see a doctor again. We did the math.
+> Everyone's interests
+< Impartial at the level of justification, partial in practice: a world where people look after their own goes better. The theory endorses the loyalty. It just explains it.
+< He keeps it only if he's the best use of it. He almost never is. That's the theory, and it's why they give so much away.
+< Two strangers also have moms.
+> Higher pleasures
+< Mill was patching hedonism in a hurry. The modern theory counts whatever makes a life go better for the one living it, and drops the ranking.
+< Ask them at eighty which evenings they'd keep. The judges' verdict comes in late, and it isn't the games.
+< Somebody's hobbies had to be on top. Yours were considered.
+> Rule utilitarianism
+< The rule is kept because agents who break rules whenever their own sums say so do worse overall: they miscalculate and nobody can trust them. That's a consequence.
+< "Don't frame innocent people" isn't PR. It's what you get when you include the cost of everyone finding out, which they do.
+< And your theory lets the riot kill hundreds so your hands stay clean. Call that Tuesday.
+
+## Effective altruism
+> Give where
+< The uncertainty is why you measure, and the estimates are published with their error bars. "Hard to compare" was the old excuse for never comparing.
+< The number changes because they update on evidence and say so in public. Find another charity sector that announces its own mistakes.
+< People had tried being generous. Checking whether it worked was the new part.
+> Earning to give
+< It was always advice for a few people with unusual earning power, and they did walk it back for most. A movement that revises its advice is working as intended.
+< If everyone became a doctor there'd be no farmers. Advice at the margin is for the next person, and it always was.
+< The note says the job pays for thirty thousand bed nets a year. What does yours say?
+> Future people
+< Being unable to predict most effects is a reason to pick the few robust ones, like not going extinct. The weight of the future survives the uncertainty.
+< Your grandchildren don't exist either. Tell me they don't count and then tell them in forty years.
+< The shrimp are alive now. So that's two different complaints.
+> AI risk
+< The estimates are rough, and the people building the systems give similar ones. A small chance of something irreversible is how seatbelts and fire codes are justified.
+< Every generation before 1945 was right that nothing could end the world. Then there was a button. Base rates change when the hardware does.
+< Malaria nets are still the biggest line in the budget. The essays are just the part you read.
+> One fraudster
+< The culture needed fixing and that's been said in public, at length. The claim stands that the ideas forbid fraud: the founding texts say plainly not to do harm for the greater good.
+< The math said don't commit fraud. It's in the book, with his endorsement on the cover. He didn't follow it.
+< Neither did his auditors, his investors or the regulators. The philosophers were the last to be asked.
+
+## Kant
+> Act only
+< The maxim is your actual reason for acting, and you don't get to pick its wording. Gerrymandered descriptions aren't what you're acting on, and judgment about that is part of the test.
+< The maxim is "take up a trade I'm suited to in a society that needs many." Everyone can will that. You universalized the job title.
+< The golden rule lets a masochist hurt people. The long version is long because that had to be fixed.
+> Never lie
+< Right, and that's the system correcting its author. The principle of respecting persons can be defended on its own terms without the 1797 essay.
+< He's wrong about the case and the reason still matters: once you lie for good outcomes, you answer for every outcome. He was pointing at who owns what follows.
+< It's one late essay. Judge Newton by the alchemy while you're at it.
+> Treat people
+< "Merely" has a test: could the other person agree to the way they're being treated? Deception and force fail it. Ordinary dealings pass.
+< The cashier agreed to the job and you're paying what was asked. Using with consent is the allowed kind. That's the whole distinction and you walked into it.
+< The Commandments say what. He says why, without anyone watching.
+> Only acts done from duty
+< He doesn't say inclination spoils the act. Duty must be enough to move you if the liking fails. The friend who visits gladly and would come anyway is his ideal case.
+< The best person is the one who'd still show up on the day they didn't feel like it. You'd want that friend. Everyone would.
+< It counts when you'd do it anyway. That's the test for whether you're kind or just in a good mood.
+> We know appearances
+< On the two-aspect reading there's one set of things, considered as they appear and as they are apart from us. "Cause" is then a loose way of saying ground.
+< We know there's a room because the wall is here. Knowing a limit from this side is the entire Critique.
+< He knows it's there and that we can't describe it. That's two things. He stops there.
+
+## Virtue ethics
+> Ask what
+< The virtues are specified through what a human life needs: courage, honesty, justice. Right action is derived from those, and it gives guidance through rules like "do what's honest."
+< The first person at the door knows something about kindness already. Everyone does. The theory starts from that and no theory starts from nothing.
+< Who's a good doctor? One who heals people. Nobody thinks medicine is circular.
+> Character
+< Those studies found most people aren't virtuous, which Aristotle said. Virtue is rare and hard. And a third of Milgram's subjects walked out, which is the trait showing.
+< Then two people with the same record have the same character, and nobody who has hired anyone believes that.
+< And some people help without the dime. That's the character.
+> The virtues are needed
+< The vicious person who seems to flourish has wealth and comfort. Whether that's a good human life is the question, and the theory argues it isn't.
+< A boat is not a life. Ask them how many people they trust.
+< Health is what healthy people have, and the healthy are whoever's well. Some circles are just definitions.
+> Practical wisdom
+< Every theory needs judgment to apply its rules. This one says so and studies how judgment is acquired, where the others leave it unmentioned.
+< Riding a bike can't be written down. It's taught every day. Demonstration and practice are teaching.
+< Medicine tells its residents the same thing. It's called training.
+> The virtues are the same
+< The lists differ and the core overlaps: courage, justice, self-control and honesty turn up almost everywhere. Humility and pride may be one trait under two descriptions.
+< Achilles and a kindergarten teacher both need courage, honesty and self-command. The job descriptions differ. The review form has the same headings.
+< A rich Athenian with courage, justice and self-control. Which one are you against?
+
+## Moral realism
+> There are objective
+< The same oddness belongs to facts about what one ought to believe on the evidence. If those are too strange to exist, the argument against moral facts goes too.
+< Nobody has built a number detector either. Some facts are found by thinking, and there's plenty of money in those.
+< You believe in logical validity and you can't put that in a jar either.
+> Moral progress
+< The changes weren't random drift. They followed from applying existing principles more consistently once the excuses were examined, which is what tracking looks like.
+< The Victorians thought they were better than slaveholders. They were. Being sure doesn't make you wrong.
+< Every culture was sure it knew the shape of the earth too.
+> Some things
+< Debunking has to stop somewhere or it takes logic and the senses with it. Realists argue that the judgments that survive reflection have the same standing as those.
+< Nobody runs a seminar on it because nobody doubts it. The seminars are about why you'd doubt this and nothing else.
+< Your confidence in that objection is a feeling too.
+> Moral facts are like
+< Mathematics rests on axioms accepted because they seem true on reflection. Ethics has the same footing and fewer theorems so far.
+< Tipping isn't. Torturing children for fun is wrong on Mars. You went for the custom and skipped the fact.
+< Proofs from axioms nobody proved.
+> People disagreed
+< Much of the disagreement is about non-moral facts or comes from self-interest. Among people who share the facts and have nothing at stake, it shrinks a great deal.
+< Ethics ran its experiment. Slavery was tried at scale, the results came in, and almost nobody wants a replication.
+< Church has commandments from a person. This doesn't need one. That's the difference.
+
+## Moral anti-realism
+> Morality depends
+< "If everyone approved, it'd be fine" is a moral claim, and one I reject from inside my own outlook. Having no outside standpoint doesn't mean having no standpoint.
+< Money stops being real the moment everyone stops believing. Tell me which moral fact survives that test, and then tell me how you checked.
+< No, it's wrong. I say that with everything I've got. I just don't say the universe agrees.
+> All moral claims
+< Some error theorists accept it for epistemic norms too. Others note the difference: "ought to believe" can be cashed out in terms of truth, and "ought to do" has nothing similar.
+< "Murder is not wrong" isn't a moral claim, it's the denial of one. "There are no unicorns" isn't a unicorn.
+< I didn't say you shouldn't. I said it's false.
+> Moral judgments
+< It's a hard technical problem with thirty years of serious answers. That a theory has open problems puts it level with every rival.
+< People are argued out of tastes all the time: tell them how the sausage is made. Attitudes respond to facts. That's the theory.
+< It's booing with reasons. Like yours, minus the metaphysics.
+> Evolution explains
+< Perception and logic pay off only when they're accurate. Moral beliefs pay off by getting us to cooperate, whether or not anything is there to be accurate about.
+< Believing in evolution wasn't selected for. It showed up in 1859. Believing your family matters most was.
+< I have opinions about food too, and I'll fight you on those.
+> You can be one
+< Right, and realists do the same: they voice their stance and add that the cosmos seconds it. The extra clause has never stopped an atrocity.
+< An actor doesn't mean it. I mean it. Meaning it is the part that was ever doing any work.
+< I'm against it. I never said I wasn't. I said the universe doesn't have a parking policy.
+
+## Trolley problem
+> Pull the lever
+< That's the finding. People who pull aren't pure counters, and the cases exist to find out what else is in there.
+< He was safe because five others weren't. Letting the track decide is still deciding, and you were the one standing at the lever.
+< You were standing right there. The company has you on camera.
+> Pushing
+< The loop case shows the simple account is wrong. That's a case refining a principle, and it's the method doing its work.
+< The law asks exactly that. Murder and manslaughter differ by what you meant and how you did it, and families care a lot.
+< Then you'd push him. Say it out loud, to him.
+> The cases reveal
+< An emotional alarm that fires for up-close harm and stays quiet for remote harm is a discovery about moral thinking. The cases produced it either way.
+< The pattern replicated in forty-two countries. It's not the undergraduates.
+< Personality quizzes don't replicate across forty countries.
+> Idealized cases
+< Every experiment strips things out, and that's how one factor gets studied at a time. What real decisions add can then be put back one piece at a time.
+< Physics removed friction and air and got the laws of motion. Removing variables is what an experiment is.
+< Because it's a thought experiment. Nobody asks why the frictionless plane has no friction.
+> It matters
+< The dilemma is rare. What it stands for is not: any policy that sets how to trade risks between groups, from triage rules to speed limits, has that structure.
+< The cars are programmed with a priority order for who to protect. Somebody chose it. They just didn't hold a survey first.
+< Braking is a choice about who gets hit when braking isn't enough.
+
+## Veganism
+> Animal suffering
+< Even at a steep discount the numbers decide it: tens of billions of land animals a year, most in conditions nobody defends, for a pleasure that has substitutes.
+< A baby doesn't know it's Tuesday. Pain doesn't need a calendar.
+< Then eat the plants directly. The cow eats ten times as many.
+> No trait
+< A species-norm account has to say why membership matters when the capacities are absent. "Because they're ours" is the claim under examination.
+< "It's on the form" is what every in-group has said about every out-group. The wolf isn't offering it as an argument.
+< Then you'd eat anything that tastes good. Name the limit.
+> A plant-based diet
+< Agreed, they're separate cases. Health only shows the moral case costs nothing important, which removes the last practical excuse.
+< They stopped the gas station food and the meat and felt great. You can't claim one variable and wave off the other.
+< Gorillas have bigger ones and eat leaves.
+> Animal farming
+< Reduction and reform is most of what's being asked for. Grazing on land that can't grow crops supplies a small share of what people eat.
+< The grass grows back and the methane goes up. Most of them never see the lawn. They're fed soy from a cleared forest.
+< Most crops are grown to feed the cow. Fewer cows, fewer dead mice. Thank you for the argument.
+> If you wouldn't
+< If the relationship is what protects the dog, then pigs are fine to harm only because nobody bothered to know one. That's a fact about us.
+< Pigs outscore dogs on every cognition test going. If it's about ability, we've been eating the wrong one.
+< Lions also kill their rivals' cubs. Pick a different role model.
+
+## Antinatalism
+> Coming into existence
+< The asymmetry explains judgments nearly everyone shares: we have a duty not to create a miserable child and no duty to create a happy one. Reject it and those need another explanation.
+< You make that comparison whenever you say someone would have been better off never born. Everybody has said it about somebody.
+< It's not convenient. It's how you already think about a child who'd be born into agony.
+> No one consents
+< Where consent can't be had we may act for someone only to spare them harm. Pulling a person from a fire qualifies. Starting a life to give it benefits doesn't.
+< The baby already exists and needs feeding. You rescue the people who are here. That's not a reason to make more who'll need rescuing.
+< Nobody is there to be wronged by it. That was the point.
+> Life is worse
+< Self-reports are bent by known biases, including rosy memory and adapting to anything. The reports measure how people cope, which is different from how the life goes.
+< Ask during the dentist, the commute, the 3 a.m. and the funeral. The study only called at lunch.
+< People are wrong about their own lives constantly. Ask them how much they exercise.
+> Extinction
+< He grants the last generations would suffer, which is why the argument is about phasing out and takes no position against anyone already here.
+< A view isn't false because it won't spread. Most true things have terrible marketing.
+< Every solution you've got also takes eighty years and then needs doing again.
+> It's wrong to gamble
+< The rescue is for someone who exists and has something to lose. Creating the person who'll then need rescuing is the step that needs justifying.
+< Lose that bet and nobody is worse off. Lose yours and somebody is. Those aren't the same wager.
+< Neither can celibate monks, and there are still monks.
+
+## Peter Singer
+> If you'd save
+< Each difference can be tested by changing the pond: add other bystanders, repeat it daily. Most people still think you should wade in.
+< The ocean is made of ponds. Nobody said to save all of it. He says the next one's still there after you've walked past.
+< It's a small jump. You've just never been asked to make it twice.
+> Distance
+< Those things matter, and the argument allows for them. Where help is reliable and cheap, as it now is, the miles left over do no moral work.
+< Feelings said the same about people of another village, then another country. The data kept being wrong in one direction.
+< He gives away about a third of what he earns. From Princeton.
+> Speciesism
+< Where species tracks a real difference in capacity, the difference counts. The claim is that membership counts for nothing by itself, exactly as with race.
+< Nature's moral laws include eating your young. He isn't taking nominations from the floor.
+< Every word for a prejudice was invented by somebody. That's how it got noticed.
+> Equal interests
+< We compare interests across humans who can't tell us anything, like infants, and manage. Rough comparison is enough when one side is a taste and the other a life.
+< Equal consideration of equal interests. Its interest in a meal against your interest in not itching. Yours wins. That's the principle applied, not refuted.
+< Thermostats have no interests. Shrimp might. That's the line, and it's a principled one.
+> Preference utilitarianism
+< He changed his mind in public when an argument beat him. The practical conclusions barely moved, which suggests they never hung on the fine print.
+< Forty years, one revision, announced by him. Name another moral philosopher who's reported a mistake.
+< Bentham with a publicist has moved more money to the poor than every critic combined.
+
+## Ayn Rand
+> Rational self-interest
+< Flourishing for a rational being requires dealing with others by trade and not by force. Their interests enter as the terms on which she can live among them.
+< Toddlers are whim-driven, and she spent a thousand pages saying whim isn't self-interest. Rational is the word you skipped.
+< Most people do find out about taxes as teenagers. Some of us kept caring.
+> A is A
+< The axiom works as a ban on wanting contradictions: wealth without production, effects without causes. The politics is that ban applied.
+< Half of politics is people demanding that A be B by next quarter. It needed saying.
+< And then everybody disagreed with everything that followed from it.
+> Laissez-faire
+< The argument is moral before it's economic: no one may start the use of force. Spillovers are handled as rights violations, through courts.
+< Every step toward it made the countries that took it richer. A curve that points one way the whole length is a test.
+< She paid in for forty years and said taking it back was restitution. It's in an essay, with reasons.
+> Altruism is evil
+< She used the word as its inventor did. Kindness she called benevolence and had no quarrel with. The target is the claim that need is a claim on your life.
+< Parents value their children. Giving to what you love isn't a sacrifice, and she says so about parents in so many words.
+< It's a syllabus that's assigned Marx since 1968.
+> Academics dismiss
+< There's a society for her inside the main professional association, and a volume of commentary from a major academic press. The dismissal mostly comes from people who haven't read it.
+< Nietzsche's dead and can't take the grant money. She said the universities were living off the people they despise. That one's still awkward.
+< It's sold thirty million copies. Somebody's listening to the radio.
+
+## Art & beauty
+> Beauty is objective
+< The disagreement is at the margins. Across cultures and centuries, the same works keep winning, which nothing but real features of them explains.
+< There's no unit for funny either, and some jokes are better. Things can be real without a ruler.
+< Then nobody's ever been wrong about a painting. You don't believe that. You've seen your uncle's.
+> Taste can be educated
+< The judges are identified by things you can check without the art: practice, comparison, a fine sense for differences, freedom from prejudice. That's a test, and it isn't circular.
+< People who've heard a thousand records hear more in the next one. That happens in wine, in chess and in engines too.
+< And some people can't tell their favorite from the best. That's what the critic is for.
+> Conceptual art
+< The label matters because it tells you how to look. Whether a given piece repays the looking is criticism, and plenty don't. That's true of painting too.
+< A recipe isn't dinner. The idea has to be made and put in front of you, and choosing how is the work.
+< And you know about it. It worked.
+> Separate the art
+< Context can change a work's meaning. What it can't do is change a line of the text. The separation says judge what's on the page, and that stays possible.
+< You've eaten in restaurants without inspecting the kitchen your whole life, and you liked the food.
+< Price isn't value. The market checks the signature. Readers don't.
+> AI can't make real art
+< Curating isn't making. And we value work from unknown hands on the assumption that a life stood behind it. Take that away and it becomes a different object.
+< The camera needed someone standing somewhere, choosing. That's who the artist was. Find that person here.
+< Nobody can tell a forgery in a blind test either. It's still a forgery.

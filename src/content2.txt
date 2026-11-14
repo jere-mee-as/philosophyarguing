@@ -1,0 +1,575 @@
+## Descartes | Knowledge
+> I think, therefore I am
+Lichtenberg's point: what can't be doubted is that thinking is going on. A lasting "I" that does it goes beyond what's given.
+Thinking needs a brain and a brain needs a body, so the body was certain first. He got the order backwards and built everything on it.
+"I think, therefore I am" assumes the "I." Wrong by word one.
+> Clear and distinct ideas are guaranteed true
+The Cartesian circle: God is proved using clear and distinct ideas, and those ideas are trusted because God wouldn't deceive.
+Everyone who has ever been wrong had a clear and distinct idea at the time. That's what being wrong is like.
+He proved God exists using an idea of God that God must have put there. That's a circle, and it's named after him.
+> Doubt is the right place to start
+Peirce: nobody can doubt at will. Pretending to doubt what we don't doubt is a paper exercise, and real inquiry starts from where we are.
+If doubt were the foundation, the most doubtful people would know the most. Conspiracy theorists doubt everything, and look how that's going.
+Descartes doubted everything until he got to the stuff he wanted.
+> Mind and body are distinct substances
+Princess Elisabeth asked how a thing with no extension moves one that has it. His answer was that their union is a primitive notion, which is no answer.
+He said they meet at the pineal gland. Lizards have one. So either lizards have souls or the gland does something else, and it's the second. It's melatonin.
+Descartes said the soul steers through the pineal gland. That was the good version.
+> He founded modern philosophy
+The label hides how much is inherited. The cogito echoes Augustine, the proofs of God are scholastic, and Bacon or Montaigne have as good a claim to the start.
+Nothing that begins by proving God exists twice is modern. It's the Middle Ages with a coordinate system.
+Great mathematician. Should have stayed there.
+
+## Hume | Knowledge
+> Induction can't be rationally justified
+Asking for a deductive proof of induction may be the mistake. On other accounts of justification inductive practice is fine without the circle Hume points at.
+Induction has worked every time so far. Something that has worked every time is justified. That's what the word means.
+Hume proved induction doesn't work and then ate lunch like it would.
+> You can't get an ought from an is
+Promises and other institutional facts blur the gap, and the famous passage may only ask that the step be explained, not forbid it.
+"The stove is hot" gets people to "don't touch it" in one step, and children manage it.
+Hume said you can't get an ought from an is, and then wrote a whole ethics.
+> Causation is just constant conjunction
+Regularity can't tell causes from coincidences or from two effects of one cause. Day follows night constantly without being caused by it.
+Then roosters cause the sunrise. They have a better record than most scientific laws.
+"Causation is just habit." So the brick and the broken window are just friends.
+> There's no self, only a bundle of perceptions
+Hume admitted in his own Appendix that he couldn't explain what ties the perceptions into one mind.
+Somebody had to look inside and find no self. That's the self. It's the one holding the flashlight.
+Hume said there's no self and never said who noticed.
+> Reason is the slave of the passions
+Seeing a reason to do something does seem able to move people, and Hume's view leaves no desire irrational, however strange.
+Then people who want 2+2 to be 5 would manage to believe it. Wanting loses to arithmetic every time.
+Reason is the slave of the passions, so Hume's whole philosophy is a mood.
+
+## Empiricism | Knowledge
+> All knowledge comes from experience
+The claim isn't itself learned from experience, and mathematics and logic resist the treatment. Mill's attempt to make arithmetic inductive convinced almost nobody.
+Nobody has experienced the number seven. They've experienced seven things, which is different and already assumes seven.
+"All knowledge comes from experience" is not something anyone experienced.
+> The mind starts as a blank slate
+Work on language learning and infant cognition points to a lot of built-in structure. A slate with no built-in biases couldn't learn from data at all.
+A blank slate can't read. Something already has to be there to know what the marks mean, and that something isn't blank.
+The blank slate lost to twin studies.
+> Observation is the final arbiter
+Observation is shaped by theory, and theories meet the evidence as wholes, so no single observation gets to arbitrate.
+Observation said the sun goes round the earth for ten thousand years. The final arbiter was overruled by a guy doing math.
+Empiricists trust the senses, the things that think the stick in the water is bent.
+> Unobservables are just useful fictions
+The line between observable and unobservable is vague and moves with the instruments, and the success of theories about unseen things is hard to explain if they aren't roughly true.
+Germs were unobservable until someone ground a lens. So they were fiction until a Tuesday and real after, which is not how germs work.
+Empiricism is fine for finding keys.
+> Concepts are copied from sense impressions
+Abstract and logical concepts such as negation, necessity and number have no plausible impression to be copies of.
+Nobody has seen a "not." It's in every other sentence.
+Locke said the mind starts empty, which is a bold thing to generalize from.
+
+## Rationalism | Knowledge
+> Some truths are known by reason alone
+The candidates tend to be either true by definition, so they say nothing about the world, or substantive and revisable. Euclid's geometry was the model case until it wasn't.
+Reason alone told people space was Euclidean, and space isn't. That was the best example.
+Rationalism is guessing from a chair.
+> We have innate ideas
+Built-in structure in the mind is well supported. That's a long way from innate knowledge of God, substance and cause, which is what the rationalists claimed.
+If the ideas were innate, everyone would have the same ones. Ask three people what God is.
+Innate ideas, but babies don't know anything. Checked.
+> Mathematics shows what pure reason can do
+Mathematics gives necessity inside a set of axioms. Which set describes the world is an empirical matter, as general relativity showed.
+Math is true because people defined it that way, like chess. Nobody thinks the bishop moving diagonally is a discovery about the universe.
+Rationalists think math describes reality because math is nice.
+> Clear and distinct perception is a mark of truth
+There's no way on offer to tell real clarity from apparent clarity. Descartes, Spinoza and Leibniz each found a different system self-evident.
+Then whoever feels surest is right. That's how every argument in every bar already works.
+"Clear and distinct ideas" means it felt right.
+> Metaphysics can be done from the armchair
+Kant's antinomies show reason producing equally good proofs of opposite conclusions once it leaves possible experience behind.
+Every armchair metaphysics so far was replaced by someone with equipment. Atoms, the void, space, time. The chair is 0 for 4.
+Three geniuses reasoned from pure thought and came back with three different universes.
+
+## Skepticism | Knowledge
+> You can't rule out being a brain in a vat
+Putnam argued a lifelong brain in a vat couldn't even refer to vats. And many deny that knowing requires ruling out every such possibility.
+A vat needs a lab, a lab needs funding, and funding needs a world. So the vat proves the outside world it was supposed to put in doubt.
+Moore held up a hand. That was the whole refutation, and it worked.
+> Knowledge requires certainty
+The standard view is that knowledge needs good enough justification, not immunity to error. The certainty requirement is a stipulation that ordinary and scientific use reject.
+People are certain of things all the time. I'm certain right now. So the requirement is met and skepticism is false.
+Skeptics can't know that they can't know. Done.
+> Suspend judgment and tranquility follows
+Suspending judgment for long looks psychologically impossible and unworkable in practice, since acting means treating things as being one way.
+People who can't make up their minds are the most anxious people there are. Tranquility comes from deciding. Ask anyone holding a menu.
+Pyrrho's friends supposedly had to steer him away from cliffs. That's the lifestyle.
+> Every justification ends in regress, circle or dogma
+Each horn has defenders who accept it and argue it isn't vicious. The trilemma lists the options. It doesn't show they all fail.
+The trilemma is a claim, so it needs a justification, so it falls to the trilemma. It's the only argument that refutes itself on purpose.
+"How do you know?" is a question a five-year-old can ask forever.
+> The senses have deceived us before
+We only find out about sensory errors by relying on other perceptions, so the argument from illusion assumes perception is mostly reliable.
+The senses were wrong maybe twice. The stick, the oasis. Twice in a lifetime is a better record than any skeptic has.
+Nobody is a skeptic at a crosswalk.
+
+## Popper | Science
+> Falsifiability separates science from non-science
+Hypotheses are tested in bundles, so a failed prediction never refutes one claim alone, and probabilistic theories aren't strictly falsifiable at all.
+Astrology makes predictions and they fail. So by the rule it's a science, just a bad one, and now it's in the building.
+Falsifiability can't be falsified, so Popper is pseudoscience by Popper.
+> Science proceeds by conjecture and refutation
+Scientists have kept theories through decades of anomalies, like Mercury's orbit under Newton, and were right to. Strict falsification would have killed good theories.
+Scientists spend their careers trying to prove their theory right. Nobody has ever applied for a grant to be refuted.
+No scientist has ever dropped a theory over one bad result. They check the cable.
+> Induction plays no role in science
+Trusting a well-tested theory about tomorrow is induction under another name. Without it, passing tests gives no reason to rely on a theory in practice.
+If induction played no role, engineers would open each bridge with no expectations. They have expectations.
+Popper said science doesn't need induction and then boarded planes.
+> A tolerant society can't tolerate the intolerant
+Popper's footnote is narrow: suppress those who refuse argument and turn to violence. It doesn't license silencing views someone finds intolerant.
+If tolerance has an exception it isn't tolerance, it's a guest list. He refuted the open society in his own book about it.
+The paradox of tolerance is a footnote. People have built whole personalities on a footnote.
+> Marx and Freud are pseudoscience
+Popper held that Marx's theory was falsifiable, was falsified, and was then rescued by its followers. So the test is about how adherents behave, which weakens it as a logical line.
+Evolution can't be falsified either, which Popper said himself. He put Darwin in the bin with Freud and then asked for him back.
+Popper is every physicist's favorite philosopher because he's the only one they've heard of.
+
+## Kuhn | Science
+> Science advances by paradigm shifts
+The revolution picture fits a few episodes in physics and astronomy and fits most of chemistry and biology badly, where change is piecemeal.
+If science moved by revolution, the old science would stop working. Newton still lands rockets. Nothing was overthrown, it got a decimal place.
+A paradigm shift is the old guys dying. Planck said it first and shorter.
+> Paradigms are incommensurable
+Physicists who lived through relativity understood and compared both theories, and Kuhn himself later retreated to a much milder version.
+If they couldn't be compared, nobody could say the new one was better, so there'd be no reason to switch, and yet everybody switched.
+Kuhn says Newton and Einstein can't be compared, which is odd, because physics students compare them every semester.
+> Evidence alone doesn't dictate theory choice
+Values like simplicity and scope play a part at the margins. That doesn't make the choice arbitrary, as Kuhn himself kept insisting afterwards.
+So something else dictates it, and the only other things are money and friends. He said science is a clique and called it history.
+So science is vibes with funding. Got it.
+> Science doesn't converge on truth
+The success of mature theories, including predictions nobody expected, is hard to explain unless they're approximately true.
+GPS works. Something that isn't getting closer to the truth doesn't find a parking lot from orbit.
+Kuhn says science doesn't get closer to the truth. Typed, presumably, on a computer.
+> Normal science is puzzle-solving
+The picture underrates how much basic criticism goes on in ordinary periods. Popper thought "normal science," where it exists, is just bad science.
+Puzzles have the answers printed in the back. If science were puzzle-solving they'd have looked.
+Kuhn used "paradigm" 21 different ways in one book. Someone counted.
+
+## Bayesianism | Science
+> Rational belief is updating by Bayes' rule
+The rule assumes a reasoner who already sees every logical consequence and every hypothesis. It has nothing to say about a theory nobody had thought of yet.
+Nobody in history has computed a posterior before crossing the street. So either all of humanity is irrational or the theory describes zero people.
+Nobody has ever actually done the math. They say "I updated."
+> Priors wash out with enough evidence
+Convergence is proved only in the long run and for people who agree on what's possible. With real data, different priors give different answers.
+If priors wash out, they didn't matter, and if they didn't matter the theory is "look at the evidence," which was available.
+The prior is made up, so everything after it is made up to more decimal places.
+> Degrees of belief should obey probability
+The betting arguments show that incoherent beliefs can be exploited by a clever bookie. That's a practical point, not proof they're worse as beliefs.
+Belief isn't a number. Nobody is 0.73 married.
+"70% confident" means "I think so" in a lab coat.
+> Bayesian methods beat frequentist ones
+In practice the results often agree, and Bayesian analyses have their own wiggle room in choosing priors and models.
+Frequentist statistics ran every drug trial that worked. Bayes ran a spam filter.
+Frequentists built modern science while Bayesians were still choosing a prior.
+> Never assign probability 0 or 1
+The rule clashes with continuous probability, where events of probability zero happen, and it seems to forbid full belief in logical truths.
+Then the rule itself can't be held at 100%, so there's some chance certainty is fine, so I'm taking it.
+Nobody's allowed to be 100% sure of anything, including that the moon isn't cheese.
+
+## Simulation theory | Science
+> We're almost certainly in a simulation
+The argument offers three options. The simulation one needs civilizations that reach that power and then choose to run vast numbers of simulated histories, and there's no evidence for either.
+Simulating a universe takes a computer bigger than the universe. So it has to sit in a bigger universe, and that one's real, so most things are real.
+"The odds are a billion to one," from a calculation where every number is invented.
+> Simulated minds would be conscious
+That assumes minds don't depend on what they're made of, which is the disputed premise. If consciousness needs biology, the simulated crowds contain no one.
+A simulated fire doesn't burn the computer. A simulated brain doesn't think in it. Same computer.
+The argument assumes a computer can be conscious, which is the whole thing it needed to show.
+> Physics looks computational
+Discreteness and a top speed have ordinary physical explanations, and resemblance to current technology is weak evidence. Earlier ages saw clockwork.
+The speed of light is too slow for a good computer. Anyone building a simulation would have picked a faster one. So it's real, and badly designed.
+Simulation theory is God for people with a graphics card.
+> It's a scientific hypothesis, not a religious one
+Without a prediction that tells it apart from an unsimulated world it works as metaphysics, and the proposed tests assume how the simulators would build it.
+A creator outside space and time who made everything and might be watching. They changed the font.
+If it can't be tested, it's church.
+> Bostrom's argument is rigorous probability
+It counts hypothetical simulated beings among the people we might be. Choose the comparison group differently and the conclusion changes.
+Probability needs a sample. The sample of known universes is one, and it isn't a simulation, so that's 100% so far.
+Bostrom gave three options and everyone only remembers the fun one.
+
+## Pragmatism | Knowledge
+> Truth is what works
+Useful falsehoods and useless truths pull the two apart. Russell and Moore attacked James on exactly this, and Peirce disowned the formula.
+Leeches worked for two thousand years, in that the doctors got paid and the patients came back. So leeches were true until 1850.
+"Truth is what works." Lying works.
+> Truth is where inquiry would converge
+Nothing guarantees inquiry converges, or converges on one answer, and some truths, like lost facts about the past, may be beyond any inquiry.
+Inquiry has been going for three thousand years and has converged on nothing. Philosophers can't agree on whether chairs exist.
+Peirce invented pragmatism, hated what James did with it, and renamed his own version so nobody would steal it. Nobody did.
+> A concept means its practical consequences
+The maxim risks the old verification problem: claims about the remote past or the unobservable mean more than any difference they make to practice.
+"Unicorn" has no practical consequences and everyone knows what it means. It's a horse with a horn. That's the meaning.
+Pragmatism is common sense that took a hundred years.
+> Faith is justified where evidence is silent
+Clifford's worry stands: letting desire settle belief wears down the habits that make inquiry reliable, and James's conditions are easy to stretch.
+Evidence is never silent. No evidence is evidence of no. That's how every missing sock is handled.
+James said believe in God if it helps. That's a placebo with a Harvard chair.
+> Give up on mirroring reality
+If justification is only what one's community accepts, there's nowhere to stand to say a community changed for the better and not just changed.
+A map that doesn't mirror the land gets people lost. He was against maps.
+Rorty said truth is whatever your peers let you get away with, and his peers let him.
+
+## Wittgenstein | Language & Logic
+> Meaning is use
+Use doesn't fix meaning without some account of correct use, and it doesn't explain how people understand sentences they've never heard before.
+People use "literally" to mean "not literally." If meaning were use that would be fine, and it isn't. Ask anyone.
+Late Wittgenstein: words mean how people use them. Dictionaries had this.
+> Philosophical problems are confusions of language
+Many problems survive careful rewording: consciousness, induction, identity. That they dissolve was asserted more than shown, and is itself a philosophical thesis.
+Then translating them into another language would make them go away. They've been translated into all of them.
+He didn't solve philosophical problems, he told people to stop asking. Any dad can do that.
+> A private language is impossible
+The argument's structure is disputed. If it rests on doubting memory it proves too much, since public checks use memory too.
+Diaries exist. People write in codes only they know. That's a private language, and it's been in drawers for centuries.
+Wittgenstein fans don't answer questions. They ask what game the question is playing.
+> The Tractatus shows the limits of what can be said
+By its own theory its sentences are nonsense, and the image of a ladder to be thrown away admits that without explaining how nonsense shows anything.
+A limit that can be described has been crossed. He drew the fence from the far side.
+The Tractatus ends by saying everything in it is nonsense. Agreed.
+> What can't be said must be passed over in silence
+The line sends ethics, art and the book itself into silence. Ramsey's reply: what can't be said can't be said, and it can't be whistled either.
+Everything can be spoken of. I just spoke of the thing that can't be. That was it.
+"Whereof one cannot speak," from a man who would not stop.
+
+## Logical positivism | Language & Logic
+> Only verifiable statements are meaningful
+The principle is neither true by definition nor verifiable, so it fails its own test, and every attempt to state it precisely let in everything or shut out science.
+"There's a teapot nobody can ever detect" can't be verified, and everyone understood it immediately. That's what meaning is.
+"Only verifiable statements have meaning" is not verifiable. One sentence, own goal.
+> Metaphysics is nonsense
+Rejecting metaphysics took commitments about meaning and experience that were themselves metaphysical, and later analytic philosophy let ontology back in.
+Saying nothing exists beyond experience is a claim about what exists. They did metaphysics for thirty years and billed it as hygiene.
+The Vienna Circle set out to end metaphysics and ended themselves.
+> Moral statements only express feeling
+Moral sentences sit inside "if" clauses and arguments where nothing is being expressed, and they keep their meaning and their logic there.
+If "murder is wrong" just means "boo murder," courtrooms are sporting events, and the home team has won every trial.
+Positivism said ethics is just cheering. Then the 1930s happened around them.
+> Truths of logic and math are true by convention
+Quine: there's no non-circular account of truth by meaning alone, and no statement is immune to revision.
+Conventions are decided by people. So with enough votes 2+2 would be 5. They never explained why nobody's tried.
+Ayer was asked later what was wrong with positivism and said nearly all of it was false.
+> Philosophy should be the logic of science
+Actual scientific practice turned out not to fit the reconstructions, and scientists made little use of them.
+Science already has a logic. It's called math, and the people who do it are called scientists. The position was filled.
+Positivism is philosophy trying to get hired by the physics department.
+
+## Analytic philosophy | Language & Logic
+> Clarity and rigor are how philosophy progresses
+Rigor on small questions can be bought by avoiding the large ones, and the tradition's own surveys show standing disagreement on nearly every major issue.
+A hundred years of rigor and the surveys still split on everything. If rigor produced progress there'd be one thing they agreed on.
+Clarity is the only virtue, which is easy when nothing's being said.
+> Intuitions about cases are evidence
+Some studies find case intuitions shift with wording, order and culture. Even where they're stable, it's unclear why they'd track the truth.
+Intuition said the earth was flat and heavy things fall faster. It's 0 for everything it's been tested on, so they kept it for the untestable stuff.
+"Intuitively" means "my friends and I think."
+> Thought experiments reveal conceptual truths
+Far-fetched cases may run past the conditions where our concepts are reliable. Verdicts about a man made by lightning in a swamp say little about minds as they are.
+An experiment has equipment and a result nobody chose. A thought experiment is a story where the author decides the ending.
+Fake barns, swamp men, twin earth. It's science fiction with worse plots.
+> Formal logic disciplines argument
+Formalizing moves the dispute to the premises and to whether the symbols fit. Valid arguments with contested premises are everywhere.
+Putting P and Q on a sentence doesn't make it truer. "If P then pizza" is valid.
+Analytic philosophers number their sentences so it looks like something is being calculated.
+> Continental philosophy is obscurantism
+The divide is mostly sociological. Analytic work has its own unreadable jargon, and many continental texts make arguments analytic philosophers later rediscovered.
+The continentals at least wrote about death, sex and power. The analytics picked "the present king of France is bald." One of those has readers.
+Analytic philosophy is a hundred years on the word "the."
+
+## Gödel | Language & Logic
+> Incompleteness is only about formal systems
+Strictly yes, though Gödel drew large philosophical morals from it himself, so wider uses aren't all illegitimate.
+A legal code is a set of rules meant to be consistent and complete. That's a formal system. So there are true verdicts no court can reach.
+Incompleteness applies to every system: legal systems, political systems, relationships.
+> It says nothing about minds versus machines
+Gödel thought it did. His own conclusion was that either the mind outruns every machine or there are mathematical problems nobody can ever solve. That isn't nothing.
+A machine can't see that its own Gödel sentence is true and a person can. That's the whole theorem, and it took one line.
+Gödel's theorem is why AI can never match a human mind.
+> It doesn't show mathematics is unreliable
+Right, though the second theorem does mean no proof of arithmetic's consistency can be had from within arithmetic. That is a real limit on what can be secured.
+A system that can't prove it's consistent might not be. Nobody would fly an airline that can't prove its planes land.
+Gödel proved math is broken.
+> It isn't just the liar paradox
+The construction does adapt the liar. What's new is that "provable" can be defined inside arithmetic and "true" can't. "Just" is unfair, and "isn't" overstates.
+"This sentence can't be proved." Proved, it's false. Unproved, it's true. That's the liar with one word swapped, and the word was the easy part.
+Gödel basically wrote "this sentence is false" in math and got famous.
+> Mathematical truth outruns proof
+It shows truth in the standard model outruns proof in any one system. A formalist reads the same sentence as provable in a stronger system, with no realm of truths needed.
+A truth nobody can prove is called an opinion. He formalized having one.
+Gödel showed there are truths logic can't reach, which is basically proof of intuition.
+> His ontological proof is serious modal logic
+The axioms about "positive properties" carry the conclusion, and the system makes everything true necessarily true, which nobody wants.
+A computer checked it in 2013. Computers don't make mistakes, so God exists and it's reproducible.
+Gödel proved God exists, in symbols. Still unrefuted.
+
+## Utilitarianism | Ethics
+> Maximize overall well-being
+Adding everyone up ignores that people are separate. It allows severe losses for a few in exchange for small gains to many.
+Nobody knows what overall well-being is, so nobody can maximize it. Every utilitarian has been doing something else the whole time and calling it that.
+Nobody can measure happiness, so the whole thing is arithmetic on vibes.
+> Only consequences matter
+Transplant and scapegoat cases suggest some constraints matter in themselves. Replies that appeal to rules or long-run effects concede the verdict and move it.
+Consequences never end. Every act is still having them. So no act can ever be scored, and the theory has never produced a result.
+A surgeon has five dying patients and one healthy visitor. Utilitarianism has notes.
+> Everyone's interests count equally
+Strict impartiality leaves no room for special duties to family and friends, which most people take to be the center of moral life.
+If everyone counts equally, so does the utilitarian, so he may as well keep the money. The theory funds itself.
+Ask a utilitarian to pick between their mom and two strangers and they have to think about it.
+> Higher pleasures outweigh lower ones
+Ranking pleasures by quality gives up the single measure that made the theory attractive, and Mill's test of experienced judges brings in a standard that isn't pleasure.
+The people who have tried both poetry and video games mostly went back to the video games. That's the judges' verdict, and Mill threw it out.
+Mill said some pleasures are higher than others, and the higher ones turned out to be his hobbies.
+> Rule utilitarianism avoids the counterexamples
+Either the rule gives way whenever breaking it does more good, and it's the old theory again, or it's followed anyway, and that's rule worship.
+A rule that says "maximize, except when it looks bad" isn't a theory. It's PR.
+A utilitarian would frame an innocent man to stop a riot and call it Tuesday.
+
+## Effective altruism | How to Live
+> Give where a dollar does the most good
+Cost-effectiveness estimates carry wide uncertainty and favor what can be measured. Political and structural change resists the method and gets underweighted.
+The most good per dollar is a number in somebody's spreadsheet, and it changes every year. Last year's best charity is this year's mistake, by their own blog.
+EA is charity by people who think nobody tried being smart about it before.
+> Earning to give can beat direct work
+It discounts how a career shapes a person's values and assumes the harms of the earning are small. The movement's own leaders walked the advice back.
+If everyone earned to give, nobody would be left to do the thing the giving pays for. It only works if most people ignore it.
+"Earning to give" is taking the finance job with a note from philosophy.
+> Future people matter as much as present ones
+Grant them equal weight, and our ability to predictably affect the far future is still tiny. Expected value with astronomical stakes turns fanatical.
+Future people don't exist. Things that don't exist have zero interests. Zero times a trillion is still zero.
+EA cares deeply about people in the year 9000, and shrimp.
+> AI risk is the most pressing cause
+The ranking rests on probability estimates nobody can check, and the money flows into a field where the donors have commercial interests.
+Every generation's smartest people were sure about their apocalypse, and they're 0 for all of them. The base rate for doom is zero.
+It started with malaria nets and ended up funding essays about robot gods.
+> One fraudster doesn't discredit the ideas
+Fraud doesn't refute a moral theory. But naive expected-value thinking was live in the culture, and warnings about him were raised early and set aside.
+He did the math in public, the movement checked it and took the money. When the calculator is wrong at that size, it's the calculator.
+The movement's biggest donor went to prison, which the expected value math somehow didn't flag.
+
+## Kant | Ethics
+> Act only on maxims you could universalize
+The test depends on how the maxim is worded. Word it narrowly and nearly anything passes, while harmless maxims like "play tennis when the courts are empty" fail.
+If everyone became a dentist, society would collapse. So being a dentist is immoral. It's his rule.
+The categorical imperative is the golden rule, long version.
+> Never lie, even to the murderer at the door
+Most Kantians now think Kant misapplied his own theory, and that deceiving an aggressor passes the test.
+The murderer would have found him anyway. Murderers check. So the lie doesn't even help, and Kant is right for the wrong reason, which in Kant is still wrong.
+Kant said no lying to the murderer at the door. Whole system, one example.
+> Treat people as ends, never merely as means
+"Merely" carries the weight and has no precise test, and the formula gives no clear answer when everyone's ends conflict.
+Everyone uses a cashier as a means. Paying doesn't change that, it makes it a means with a receipt.
+Kant is basically the Ten Commandments without God.
+> Only acts done from duty have moral worth
+Someone who visits a friend in the hospital from duty alone seems to be missing something morally important. Schiller made the joke in Kant's lifetime.
+So the best person is someone who hates helping and does it anyway. He described a resentful volunteer and called it the summit of ethics.
+Kant said helping people because you like helping has no moral worth. It only counts if it's a chore.
+> We know appearances, never things in themselves
+Jacobi's problem: Kant says things in themselves cause appearances, and also that causation applies only within appearances.
+If nobody can know them, nobody can know there are any. He posited a room and lost the key on purpose.
+The thing-in-itself can't be known, and Kant knows quite a lot about it.
+
+## Virtue ethics | Ethics
+> Ask what a virtuous person would do
+The test gives little guidance and looks circular unless virtue is spelled out without mentioning right action.
+A virtuous person would ask what a virtuous person would do. So it's two people asking each other at a door forever.
+Virtue ethics: do what a good person would do. Who's a good person? One who does good things.
+> Character, not rules or outcomes, comes first
+Experiments like Milgram's suggest circumstances drive behavior more than stable traits do, though what they show is contested.
+Character is what someone has done so far. So it's outcomes, on a delay.
+Psychologists found people help strangers more after finding a dime. So much for character.
+> The virtues are needed for flourishing
+Either flourishing is defined to include virtue, and the claim is empty, or it isn't, and then vicious people sometimes flourish.
+Plenty of terrible people are doing great. Some of them have boats.
+Flourishing is what the virtuous have, and the virtuous are whoever's flourishing.
+> Practical wisdom can't be written down as rules
+That shields the theory from counterexamples and gives no way to settle a disagreement between two people who each claim to see it rightly.
+Anything that can't be written down can't be taught, and anything that can't be taught is luck. So virtue is luck with good manners.
+"Practical wisdom" is the part where the theory says "you'll figure it out."
+> The virtues are the same everywhere
+The lists differ sharply: Aristotle's pride, Christian humility, Confucian filial piety. MacIntyre granted that virtues belong to traditions.
+Homeric virtue was killing people well. If virtues were universal, Achilles and a kindergarten teacher would get the same performance review.
+Aristotle's virtues are what a rich Athenian already liked about himself.
+
+## Moral realism | Ethics
+> There are objective moral facts
+Mackie: facts that command by their nature would be unlike anything else we know of, and it's unclear how anyone would detect them.
+Facts get found with instruments. Nobody has built a wrongness detector, and there'd be a lot of money in it.
+Moral facts exist, they just can't be seen, measured or found anywhere. A ghost with opinions.
+> Moral progress shows we're tracking something
+Progress is measured by today's standards, so any path that ends at our views looks like progress. Changing sympathies and interests explain the same history.
+Every era thought it was the progress. The Victorians were sure. So the thing being tracked is "now is best," and it's always now.
+Every culture was sure it had the moral facts. They had different ones.
+> Some things are just obviously wrong
+Strong conviction is equally expected on evolutionary and cultural stories that never mention truth.
+Obvious things don't need a philosophy department. Nobody runs a seminar on whether water is wet.
+"It's just obvious that torture is wrong" is a feeling with its voice lowered.
+> Moral facts are like mathematical facts
+The comparison has to hold where it counts. Mathematics has agreed proof procedures and science can't do without it, and ethics has neither.
+Math facts are the same on Mars. Nobody thinks tipping is.
+Realists say moral facts are like math facts. Math has proofs.
+> People disagreed about physics too
+Scientific disagreement tends to end when the evidence comes in. Basic moral disagreement persists among informed, reflective people, and that needs explaining.
+Physics arguments ended when someone ran an experiment. Ethics has had three thousand years and its experiment is two guys yelling.
+Moral realism is church for people who left church.
+
+## Moral anti-realism | Ethics
+> Morality depends on minds
+Then if everyone approved of cruelty it would be fine. The standard way of denying that borrows moral claims the view was supposed to explain.
+Money depends on minds too, and try not paying taxes. Mind-dependent things are the realest things there are.
+So genocide is a difference in taste. That's the view.
+> All moral claims are false
+The argument spreads. Rules about what one ought to believe are as strange as moral ones, so the error theorist can't say anyone ought to accept error theory.
+If all moral claims are false then "murder is wrong" is false, so murder isn't wrong, which is a moral claim, so that's false too. It deletes itself.
+Error theory says every moral sentence is false, including "you shouldn't lie about error theory."
+> Moral judgments express attitudes, not beliefs
+Moral sentences behave like ordinary true-or-false ones inside arguments and "if" clauses. A semantics that explains this is still a project, not a result.
+People change their moral views after hearing arguments. Nobody has ever been argued out of liking cilantro.
+Emotivism is ethics as booing.
+> Evolution explains morality without moral truth
+Debunking threatens to spread to perception and logic, which evolved too, and a realist can argue that getting morality roughly right was useful.
+Evolution also gave people the belief in evolution. So by that logic it's false, and the argument goes with it.
+Anti-realists have a lot of opinions about justice for people who think it's a flavor.
+> You can be one and still condemn atrocities
+One can, but the condemning is then the voicing of one's own stance. Whether that's what people mean by "wrong whatever anyone thinks" is the dispute.
+Condemning something that isn't really wrong is called acting.
+Anti-realists say nothing is really wrong, and then somebody takes their parking spot.
+
+## Trolley problem | How to Live
+> Pull the lever: five outweigh one
+The same arithmetic recommends pushing the man off the bridge. Most who pull the lever balk there, so numbers alone aren't their principle.
+The one guy was safe until someone touched the lever. Before that it was an accident. After, it's a killing with a witness.
+Don't touch anything. Then it's the trolley company's fault.
+> Pushing the man is different from the lever
+The usual explanations stumble on the loop case, where the lever uses the one man as a means and people's verdicts drift back.
+Dead is dead. The family doesn't ask which muscle group was involved.
+Pushing the guy is the same as pulling the lever. The only difference is cardio.
+> The cases reveal principles of moral thinking
+Answers shift with framing, order and physical contact. One reading is that the footbridge reaction is an emotional alarm, not a principle.
+The cases reveal what undergraduates say for course credit at nine in the morning.
+The trolley problem is a personality quiz that got into journals.
+> Idealized cases isolate what matters
+Removing uncertainty, relationships and other options may remove exactly what makes real decisions moral ones.
+A problem where nobody can yell, brake, or ask why six people are on a track has removed the variables. All of them.
+Why are they on the tracks? Nobody asks.
+> It matters for triage and self-driving cars
+Real triage runs on protocols and probabilities, and engineers treat forced-choice crashes as vanishingly rare next to ordinary safety work.
+Millions of people answered the survey about who the car should hit, and the cars used none of it.
+Self-driving cars were supposed to need it. They just brake.
+
+## Veganism | How to Live
+> Animal suffering matters morally
+Grant it, and how much it weighs is still contested. Views that tie moral status to reasoning or reciprocity give animals some consideration without equal consideration.
+Suffering needs someone who knows they're suffering. A chicken doesn't know it's Tuesday.
+Plants feel pain too.
+> No trait justifies eating them and not us
+The challenge assumes moral status has to rest on a single trait. Accounts based on species or relationships deny that.
+The trait is being human. It's on the form. Every other animal sides with its own species too, and nobody calls a wolf a bigot.
+"Name the trait." Tasty.
+> A plant-based diet is perfectly healthy
+Well planned, it is, though it needs supplements. And healthy doesn't mean obligatory. The health case and the moral case are separate.
+People who went vegan and felt great had also stopped eating gas station food. That's the variable.
+Humans have canines. That's what they're for.
+> Animal farming is an environmental disaster
+The emissions and land use are large. That supports cutting back and reform, and grazing on land that can't grow crops doesn't compete with food.
+Cows eat grass and grass grows back. It's the only industry that runs on lawn.
+Harvesting crops kills more animals than a cow does. Mice count.
+> If you wouldn't do it to a dog, don't do it to a pig
+The consistency point is strong, though it can be settled in either direction, and duties to animals people live with may come from the relationship.
+Dogs have jobs. Pigs were offered truffle hunting and it's a small field.
+Lions eat meat.
+
+## Antinatalism | How to Live
+> Coming into existence is always a harm
+Benatar counts absent pain as good though it's good for no one, and absent pleasure as not bad because it's bad for no one. Critics say the two must be treated alike.
+Harm needs a before and an after. There's no before. He's comparing a life to a blank and saying the blank won.
+Missing out on joy is fine if nobody's there to miss it, but avoiding pain is good even if nobody's there to enjoy that. Convenient.
+> No one consents to being born
+Consent applies to existing beings whose interests can be set back. Before conception there's no one whose consent is missing.
+Nobody consents to being fed as a baby either. By this standard every parent is running a hostage situation with snacks.
+"Nobody consents to being born." Nobody consents to not being born either.
+> Life is worse than people admit
+The view needs most people to be wrong about their own lives, and people's own reports are among the better evidence there is about how lives go.
+People were asked. They said it's fine. The study's over.
+Ask people if they're glad they were born and most say yes. Benatar says they're wrong about their own lives.
+> Extinction by not having children would be good
+Even granting the argument, the last generations would have it very hard, and many hold that the continuation of human projects matters in itself.
+A philosophy whose best outcome is nobody left to agree with it has a marketing problem and a logic problem, and they're the same problem.
+Antinatalism solves itself in about eighty years.
+> It's wrong to gamble with someone else's life
+Ordinary morality allows imposing risks on people who can't consent when the expected benefit is high, as in rescuing someone unconscious.
+Not having the kid is a gamble too. It bets the kid would have been miserable, at worse odds.
+Antinatalism is the only philosophy that can't recruit its own kids.
+
+## Peter Singer | How to Live
+> If you'd save the drowning child, you must give
+The cases may differ in ways that matter: one emergency in front of you, against an open-ended condition where the demands never end and the duty is shared.
+The pond is one child, once. Charity is every child, forever. That's a different pond. It's the ocean.
+Singer goes from a ruined pair of shoes to owing everything forever. It's a big jump from shoes.
+> Distance is morally irrelevant
+Distance can track things that do matter, like relationships, knowledge and the ability to help reliably, even if miles as such don't.
+If distance didn't matter, people would feel the same about a stranger's dinner as their own kid's. They don't, and feelings are the data in ethics.
+Distance doesn't matter morally, says the man in Princeton.
+> Speciesism is like racism
+Race marks no morally relevant difference in capacities and species often does, so the analogy fails where it needs to hold.
+Every species is speciesist. It's the one thing all of them agree on, which makes it the closest thing nature has to a moral law.
+"Speciesism" is a word invented to make liking people sound like a crime.
+> Equal interests deserve equal consideration
+It needs a way to compare interests across very different minds, which nobody has, and many reject where the principle leads at the edges of human life.
+A mosquito has an interest in my arm. Equal consideration, it gets a vote. Two mosquitoes and I'm outvoted.
+The circle keeps expanding. Shrimp now. Thermostats soon.
+> Preference utilitarianism gets ethics right
+Satisfying preferences counts uninformed and malicious ones unless they're filtered, and the filters bring in values from somewhere else. Singer himself later dropped it.
+He switched to the pleasure version in 2014. So for forty years it got ethics wrong, by his own account, during the famous part.
+Singer is Bentham with a publicist.
+
+## Ayn Rand | How to Live
+> Rational self-interest is the moral ideal
+The argument slides from survival to a rich idea of flourishing and never shows that other people's interests give me no reasons.
+If selfishness were a virtue, toddlers would be saints.
+Objectivism is the philosophy of a teenager who just found out about taxes.
+> A is A: reality is objective
+Nobody disputes the law of identity, and nothing substantive follows from it. Getting from "A is A" to capitalism takes other premises, and those do the work.
+A is A, and nobody learned anything, because it was already A.
+A is A. Nobody disagreed.
+> Laissez-faire is the only moral system
+The case assumes all interference is the use of force and that people's starting holdings are just. Public goods and spillovers are waved off.
+No country has ever tried pure laissez-faire. A system nobody has ever chosen isn't the only moral one, it's the only untested one.
+She took the Social Security checks in the end.
+> Altruism is evil
+She defines altruism as total self-sacrifice and then condemns ordinary kindness by association. Nobody defends the view she attacks.
+Parents are altruists and the species is still here. An evil that keeps everyone alive is bad at being evil.
+Rand isn't taught in philosophy departments, which her fans think is a conspiracy and philosophers think is a syllabus.
+> Academics dismiss her because she threatens them
+She's dismissed mostly because the arguments are thin, the step from "is" to "ought" above all, though some philosophers have worked on her seriously.
+Philosophers love being threatened. They gave Nietzsche a whole century. If she were dangerous she'd have a seminar.
+The big speech in Atlas Shrugged runs about sixty pages and it's a radio broadcast. People would have changed the station.
+
+## Art & beauty | How to Live
+> Beauty is objective
+Deep, lasting disagreement among experienced critics, and the lack of any rule that predicts their verdicts, are hard to square with that.
+If beauty were objective there'd be a unit for it, and museums would post the numbers.
+Beauty is in the eye of the beholder. The whole field fits on a mug.
+> Taste can be educated
+Hume's standard goes in a circle: good art is what the best judges approve, and the best judges are the ones who approve good art.
+Educated taste is liking what the teacher liked. That's why every expert agrees with the experts before them.
+Critics exist because some people can't just like things.
+> Conceptual art is art
+Definitions that make something art because the art world says so settle the label and leave open whether there's anything of value to experience.
+If the idea were the art, they could mail the idea. They rent a building, so it's about the building.
+A banana taped to a wall sold for six million dollars and the buyer ate it. That's the review.
+> Separate the art from the artist
+Works are acts by people and express attitudes. Knowing the context can rightly change what a work means, so strict separation isn't neutral.
+Nobody separates the chef from the food once they've seen the kitchen.
+The author is dead, and they still check who signed it before pricing it.
+> AI can't make real art
+If the complaint is no intention, the person prompting and choosing supplies some. If it's no life behind the work, people often love works knowing nothing about who made them.
+Painters said the same about cameras in 1850. The painters lost, and they'll lose again. It's basically the same painters.
+Nobody can tell in the blind test. They never can.
