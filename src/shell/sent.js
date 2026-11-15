@@ -28,7 +28,7 @@ function makeSent(cfg){
     /* searching culls every layer to the places that mention it */
     if(q) rows = rows.filter(r => r.h && r.h.length); else if(QRY) rows = [];
     B.appendChild(el('div', 'lay', q ? rows.length + ' of ' + plural(total, LAYER[path.length]) + (rows.length === 1 ? ' mentions “' : ' mention “') + $('find').value.trim() + '”' : QRY ? 'nothing mentions “' + $('find').value.trim() + '”' : plural(total, LAYER[path.length]) + (path.length ? ' in ' + words(path).slice(-1)[0] : '')));
-    rows.forEach((r, n) => { const x = el('button', 'ch'); x.style.setProperty('--n', n); if(r.ic) x.append(r.ic); const t = el('span', 't'); t.append(mark(r.t)); x.append(t);
+    rows.forEach((r, n) => { const x = el('button', 'ch'); x.style.setProperty('--n', n); if(r.ic){ x.append(r.ic); x.classList.add('hasic'); } const t = el('span', 't'); t.append(mark(r.t)); x.append(t);
       if(q && r.h && r.h.length && path.length < 2) x.append(el('span', 'c more-c', plural(r.h.length, W[2]) + (r.h.length === 1 ? ' mentions it' : ' mention it')), where(r.si, r.h));
       else if(q && path.length === 2){ const ks = P[r.si].t[r.ti].k.filter(fHit), k = ks.length; x.append(el('span', 'c' + (k ? ' more-c' : ''), k ? plural(k, W[3]) + (k === 1 ? ' mentions it' : ' mention it') : 'its title mentions it'));
         if(k){ const d = el('span', 'hits'); ks.forEach(f => { const r = el('span', 'hl'); r.append(mark(f.f)); d.append(r); }); x.append(d); } }

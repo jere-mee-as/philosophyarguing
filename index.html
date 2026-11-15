@@ -122,6 +122,9 @@ mark{background:none;color:inherit;border-bottom:2px solid var(--ink)}
 #outl .orow .ic{align-self:center} #stem .sit{display:flex;align-items:center} .sl .ch .t{display:inline}
 .lead{color:var(--dim);font-size:15.5px;line-height:1.5;margin:0 0 22px;max-width:36em;font-style:italic}
 .fact.nofold{cursor:default}
+/* sentence: the picture or sigil hangs in the margin, so the name and its count line up */
+.sl .ch.hasic{padding-left:1.7em} .sl .ch.hasic>.ic{position:absolute;left:0;top:9px;height:27.5px;margin:0} .sl .ch.hasic>.ic.pf{top:11px;width:24px;height:24px;min-width:24px}
+@media (max-width:760px){#outl .orow{padding-left:0}}
 .foot{position:fixed;left:18px;bottom:16px;z-index:19;font-size:13px;color:var(--dim);background:var(--bg);padding:4px 6px;border-radius:999px;text-decoration:none}.foot:hover{color:var(--ink)}
 @media (max-width:760px){.foot{left:0;right:0;bottom:0;border-radius:0;padding:11px 20px calc(11px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--faint)}}
 </style></head><body>
@@ -243,7 +246,7 @@ function makeSent(cfg){
     /* searching culls every layer to the places that mention it */
     if(q) rows = rows.filter(r => r.h && r.h.length); else if(QRY) rows = [];
     B.appendChild(el('div', 'lay', q ? rows.length + ' of ' + plural(total, LAYER[path.length]) + (rows.length === 1 ? ' mentions “' : ' mention “') + $('find').value.trim() + '”' : QRY ? 'nothing mentions “' + $('find').value.trim() + '”' : plural(total, LAYER[path.length]) + (path.length ? ' in ' + words(path).slice(-1)[0] : '')));
-    rows.forEach((r, n) => { const x = el('button', 'ch'); x.style.setProperty('--n', n); if(r.ic) x.append(r.ic); const t = el('span', 't'); t.append(mark(r.t)); x.append(t);
+    rows.forEach((r, n) => { const x = el('button', 'ch'); x.style.setProperty('--n', n); if(r.ic){ x.append(r.ic); x.classList.add('hasic'); } const t = el('span', 't'); t.append(mark(r.t)); x.append(t);
       if(q && r.h && r.h.length && path.length < 2) x.append(el('span', 'c more-c', plural(r.h.length, W[2]) + (r.h.length === 1 ? ' mentions it' : ' mention it')), where(r.si, r.h));
       else if(q && path.length === 2){ const ks = P[r.si].t[r.ti].k.filter(fHit), k = ks.length; x.append(el('span', 'c' + (k ? ' more-c' : ''), k ? plural(k, W[3]) + (k === 1 ? ' mentions it' : ' mention it') : 'its title mentions it'));
         if(k){ const d = el('span', 'hits'); ks.forEach(f => { const r = el('span', 'hl'); r.append(mark(f.f)); d.append(r); }); x.append(d); } }
@@ -309,7 +312,7 @@ const OL = (() => {
     else H.append('So you’re arguing about…'); }
   const mark = txt => { const f = document.createDocumentFragment(), i = QRY ? nrm(txt).indexOf(QRY) : -1; if(i < 0){ f.append(txt); return f; } f.append(txt.slice(0, i), el('mark', null, txt.slice(i, i + QRY.length)), txt.slice(i + QRY.length)); return f; };
   function row(label, count, k, depth, icon){ const isOpen = open.has(k);
-    const b = el('button', 'orow d' + depth + (isOpen ? ' open' : '')); b.append(el('span', 'car', isOpen ? '−' : '+')); if(icon) b.append(icon); const t = el('span', 'ot'); t.append(mark(label)); b.append(t); if(count) b.append(el('span', 'oc', count));
+    const b = el('button', 'orow d' + depth + (isOpen ? ' open' : '')); if(icon) b.append(icon); const t = el('span', 'ot'); t.append(mark(label)); b.append(t); if(count) b.append(el('span', 'oc', count));
     b.onclick = () => { SND.tick(isOpen ? .85 : 1.15); open.has(k) ? open.delete(k) : open.add(k); fresh = isOpen ? null : k; render(); };
     return [b, isOpen]; }
   const searching = () => !!(QRY && totalHits());

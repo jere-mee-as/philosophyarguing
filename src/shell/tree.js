@@ -7,7 +7,7 @@ const OL = (() => {
     else H.append('@@LEAD@@…'); }
   const mark = txt => { const f = document.createDocumentFragment(), i = QRY ? nrm(txt).indexOf(QRY) : -1; if(i < 0){ f.append(txt); return f; } f.append(txt.slice(0, i), el('mark', null, txt.slice(i, i + QRY.length)), txt.slice(i + QRY.length)); return f; };
   function row(label, count, k, depth, icon){ const isOpen = open.has(k);
-    const b = el('button', 'orow d' + depth + (isOpen ? ' open' : '')); b.append(el('span', 'car', isOpen ? '−' : '+')); if(icon) b.append(icon); const t = el('span', 'ot'); t.append(mark(label)); b.append(t); if(count) b.append(el('span', 'oc', count));
+    const b = el('button', 'orow d' + depth + (isOpen ? ' open' : '')); if(icon) b.append(icon); const t = el('span', 'ot'); t.append(mark(label)); b.append(t); if(count) b.append(el('span', 'oc', count));
     b.onclick = () => { SND.tick(isOpen ? .85 : 1.15); open.has(k) ? open.delete(k) : open.add(k); fresh = isOpen ? null : k; render(); };
     return [b, isOpen]; }
   const searching = () => !!(QRY && totalHits());
