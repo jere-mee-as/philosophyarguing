@@ -1,4 +1,4 @@
-"""Builds ../index.html from content*.txt, template.html, app.js and jere-pfp.txt.  Run: python3 build.py"""
+"""Builds ../index.html from content*.txt, comebacks*.txt and sigils.txt, inside the shared shell in src/shell/.  Run: python3 src/build.py"""
 import json, collections, glob, os, re, sys
 here = os.path.dirname(os.path.abspath(__file__))
 T = collections.OrderedDict(); cur = None; block = None
@@ -56,11 +56,23 @@ dup = [s for s, c in collections.Counter(list(SG['philosophies'].values()) + lis
 for g in groups.values():
     for t in g: t['s'] = SG['philosophies'][t['t']]
 data = [{'n': g, 's': SG['fields'][g], 't': ts} for g, ts in groups.items()]
-page = open(os.path.join(here, 'template.html'), encoding='utf-8').read()
-app = open(os.path.join(here, 'app.js'), encoding='utf-8').read().replace('JERE_PFP', open(os.path.join(here, 'jere-pfp.txt')).read().strip())
-app = app.replace('LEVEL_SIGILS', json.dumps([SG['levels'][x] for x in ('serious', 'bait', 'rage bait')], ensure_ascii=False))
-page = page.replace('__APP__', app).replace('__DATA__', json.dumps(data, ensure_ascii=False).replace('</', '<\\/'))
-open(os.path.join(here, '..', 'index.html'), 'w', encoding='utf-8').write(page)
+# the page is the "So you're sure about…" shell (src/shell): field → philosophy → claim → the three replies, each folding open to the philosophy's answer
+sys.path.insert(0, os.path.join(here, 'shell')); import shell
+LV = [(SG['levels'][x], x) for x in ('serious', 'bait', 'rage bait')]
+P = []
+for d in data:
+    s = {'n': d['n'], 'i': d['s'], 'u': [], 't': []}
+    for ph in d['t']:
+        u = {'n': ph['t'], 'i': ph['s'], 't': []}
+        for k in ph['k']:
+            u['t'].append(len(s['t']))
+            s['t'].append({'t': '“' + k['b'] + '”', 'k': [{'q': g + '  ' + n, 'f': k['l'][i], 'm': k['r'][i] if 'r' in k else '', 'ml': ph['s'] + '  ' + ph['t'] + ' answers'} for i, (g, n) in enumerate(LV)]})
+        s['u'].append(u)
+    P.append(s)
+size = shell.build(P, os.path.join(here, '..', 'index.html'), title='So you’re arguing about…', lead='So you’re arguing about', key='pa',
+    words=['field', 'philosophy', 'claim', 'reply'], steps=['field', 'philosophy', 'claim', 'replies'], plurals={'philosophy': 'philosophies', 'reply': 'replies'},
+    foot='<a class="foot" href="https://jere-mee-as.github.io/philosophyragebait/">Just the rage bait →</a>')
+print('built index.html', size)
 ks = [k for t in T.values() for k in t['k']]
 print(len(data), 'fields,', len(T), 'philosophies,', len(ks), 'claims,', len(ks) * 3, 'replies')
 for g, ts in groups.items(): print(f'  {g}: {len(ts)}')
